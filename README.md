@@ -13,3 +13,7 @@ Send me your links about coding, entrepreneurship and AI.
 Also, I'm friendly. Say hi!
 
 ![mario in the terminal](mario.webp)
+
+A good link:
+
+https://www.youtube.com/watch?v=iDulhoQ2pro
