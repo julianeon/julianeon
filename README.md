@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+![brick man next to tower](man_tower.jpeg)
+
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
 I like to code, run and read science fiction. I'm reading Code, by Petzold, now. 
