@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-I'm a software consultant and product support specialist living in San Francisco, California.
+I'm a software consultant and product support supporter living in San Francisco, California.
 
-I like to code, run and read (I'm reading Code, by Petzold, now). 
+I like to code, run and read science fiction. I'm reading Code, by Petzold, now. 
 
 I read Hacker News and Indie Hackers. 
 
