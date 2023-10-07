@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![moonscape](moonscape.jpg)
+![man_sofa.png](man_sofa.png)
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
