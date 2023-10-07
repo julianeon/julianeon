@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![man_sofa.png](man_sofa.png)
+![neuromancer book club](neuromancer_book_club.jpg)
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
