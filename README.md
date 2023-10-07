@@ -12,5 +12,5 @@ Send me your links about coding, entrepreneurship and AI.
 
 Also, I'm friendly. Say hi!
 
-![eye globe image](eye_globe.png)
+![mario in the terminal](mario.webp)
 
