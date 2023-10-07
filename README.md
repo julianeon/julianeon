@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![anthony quinn image](quinn.png)
+![eye globe image](eye_globe.jpg)
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
