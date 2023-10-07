@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![eye globe](eye_globe.jpg)
+![moonscape](moonscape.jpg)
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
