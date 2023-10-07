@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![neuromancer book club](neuromancer_book_club.jpg)
+![anthony quinn image](quinn.png)
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
