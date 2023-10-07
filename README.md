@@ -1,12 +1,12 @@
 ### Hello World 👋
 
-I'm a software consultant and product support supporter living in San Francisco, California.
+I'm a software consultant and product support supporter fan in San Francisco, California.
 
 I like to code, run and read science fiction. I'm reading Code, by Petzold, now. 
 
-I read Hacker News and Indie Hackers. 
+I read Hacker News and Indie Hackers. Also lobste.rs.
 
-I like to learn about coding, entrepreneurship and AI.
+I like reading about coding, entrepreneurship and AI.
 
 Also, I'm friendly. Say hi!
 
