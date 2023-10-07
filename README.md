@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![brick man next to tower](ice_land.webp)
+![eye globe](eye_globe.jpg)
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
