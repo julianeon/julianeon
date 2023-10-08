@@ -4,7 +4,7 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
-I worked at PagerDuty, Ripple and GraphQL, often by helping users with open source products.
+I worked at PagerDuty, Ripple and GraphQL, helping users with open source products.
 
 In the past few years, I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. These days, I use [Svelte](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison)  more. 
 
