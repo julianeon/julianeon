@@ -2,7 +2,7 @@
 
 This is a guide to my repositories on GitHub, linked to from my [profile](./README.md). 
 
-Most of them are in JavaScript. 
+Most of my repos are in JavaScript. 
 
 Many of those are one-shot apps used to display something or do something fun, created over 1-3 days.
 
