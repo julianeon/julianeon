@@ -2,19 +2,13 @@
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
-Big fan of Linux and i3. Compulsive writer of bash scripts.
+I use Linux (Ubuntu) and the i3 window manager. I've used React a lot and AWS, especially AWS Amplify and its associated services: s3, Cogito, and AppSync.
 
-I like to code, run on the beach and read science fiction. I'm reading Code, by Petzold, now. 
+I like to code, run and read science fiction. I'm reading Code, by Petzold, now. 
 
-I frequent Hacker News and Indie Hackers. Also lobste.rs.
-
-Send me your links about coding, entrepreneurship and AI. 
+I'm on Hacker News and Indie Hackers, if you read those. 
 
 Also, I'm friendly. Say hi!
-
-A good link:
-
-https://news.ycombinator.com/item?id=37803638
 
 ![mario in the terminal](mario.webp)
 
