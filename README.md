@@ -4,7 +4,9 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
-I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. These days, I use [Svelte](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison)  more. 
+I've worked at PagerDuty, Ripple and GraphQL, often helping users with open source products.
+
+In the past few years, I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. These days, I use [Svelte](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison)  more. 
 
 Languages I can code with: JavaScript, Python, Ruby, Go, Lisp, Rust.
 
