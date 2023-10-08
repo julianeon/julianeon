@@ -4,7 +4,7 @@ This is a guide to my repositories on GitHub, linked to from my [profile](./READ
 
 Most of my repos are in JavaScript. 
 
-![react landing page](learn_react_page.png)
+![react landing page](./learn_react_page.png)
 
 To see a recent example of a customized React template being used for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
