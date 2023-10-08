@@ -1,6 +1,6 @@
 # About
 
-This is a guide to my repositories on GitHub. 
+This is a guide to my repositories on GitHub, linked to from my [profile](./README.md). 
 
 Most of them are in JavaScript. 
 
