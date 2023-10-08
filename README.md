@@ -16,6 +16,8 @@ I'm on Hacker News and Indie Hackers, if you read those.
 
 Also, I'm friendly. Say hi!
 
+Image of the first transistor from [Brittanica.com](https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs), circa 1947, ["the single greatest discovery in the last 100 years](https://www.extremetech.com/extreme/175004-the-genesis-of-the-transistor-the-single-greatest-discovery-in-the-last-100-years).
+
 ![mario in the terminal](mario.webp)
 
 
