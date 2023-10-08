@@ -7,7 +7,7 @@ Most of them are in JavaScript.
 Many of those are one-shot apps used to display something or do something fun, created over 1-3 days.
 
 
-![view of the data](./public/click_to_disappear.png)
+![view of clicker app](./click_to_disappear.png)
 
 _Example: click on a box to make it disappear at [count.mindwiller.com](https://count.mindwiller.com)._
 
