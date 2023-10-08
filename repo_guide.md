@@ -10,7 +10,7 @@ Many of those are one-shot apps used to display something or do something fun, c
 
 _Example: click on a box to make it disappear at [count.mindwiller.com](https://count.mindwiller.com)._
 
-Apps with 'react' in the name were made with React, using hooks. 
+Repos with 'react' in the name were made with React, using hooks. 
 
 I host almost all my apps, once complete, on AWS.
 
