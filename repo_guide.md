@@ -12,9 +12,9 @@ _Example: click on a box to make it disappear at [count.mindwiller.com](https://
 
 Apps with 'react' in the name were made with React, using hooks. 
 
-I host my apps, once complete, on AWS.
+I host almost all my apps, once complete, on AWS.
 
-Example of a Svelte app I created:
+Example, Svelte:
 
 [hometoolzone.com](https://www.hometoolzone.com/)
 
