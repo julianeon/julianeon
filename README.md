@@ -14,7 +14,7 @@ I like coding, running and reading science fiction. I'm on [Hacker News](https:/
 
 You can read my [repo guide](repo_guide.md) to learn more about my public code here.
 
-Also, I'm [on](https://twitter.com/julianeon)-[line](https://fosstodon.org/@julianeon). Say hi, on Telegram or Discord, at @julianeon.
+Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
 _Image of the first transistor from [Brittanica.com](https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs), circa 1947, ["the single greatest discovery in the last 100 years"](https://www.extremetech.com/extreme/175004-the-genesis-of-the-transistor-the-single-greatest-discovery-in-the-last-100-years)._
 
