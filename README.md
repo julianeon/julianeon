@@ -10,9 +10,9 @@ Languages I can code with: JavaScript, Python, Ruby, Go, Lisp, Rust.
 
 I use Linux (Ubuntu), the i3 window manager, and [switch between vim and Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
 
-I like coding, running and reading science fiction. Big fan of the [command line](https://ubuntu.com/tutorials/command-line-for-beginners#2-a-brief-history-lesson) and [bash scripting](https://news.ycombinator.com/item?id=33354286).
+I like coding, running and reading science fiction. I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com), if you read those. 
 
-I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com), if you read those. 
+You can read my repo guide here.
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
