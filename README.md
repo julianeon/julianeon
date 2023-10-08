@@ -13,7 +13,7 @@ Languages I can code with: JavaScript, Python, Ruby, Go, Lisp, Rust.
 I use Linux (Ubuntu), the i3 window manager, and [switch between vim and Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
 
 
-I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com), if you read those. I like coding, running and reading [nonfiction](https://www.amazon.com/Trillions/dp/0241987970/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1696789538&sr=1-1) & [science fiction](https://www.nytimes.com/2022/10/26/books/best-philip-k-dick-novels.html). 
+I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com). I like coding, running and reading [nonfiction](https://www.amazon.com/Trillions/dp/0241987970/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1696789538&sr=1-1) & [science fiction](https://www.nytimes.com/2022/10/26/books/best-philip-k-dick-novels.html). 
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
