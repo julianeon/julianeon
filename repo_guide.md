@@ -1,4 +1,4 @@
-# About
+## Repo Guide
 
 This is a guide to my repositories on GitHub, linked to from my [profile](./README.md). 
 
