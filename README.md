@@ -4,7 +4,7 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a software consultant and product support aficionado living in San Francisco, California.
 
-I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. These days, I use Svelte more. 
+I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. These days, I use [Svelte](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison)  more. 
 
 Languages I can code with: JavaScript, Python, Ruby, Go, Lisp, Rust.
 
@@ -12,7 +12,7 @@ I use Linux (Ubuntu), the i3 window manager, and [switch between vim and Emacs](
 
 I like coding, running and reading science fiction. I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com), if you read those. 
 
-You can read my repo guide here.
+You can read my [repo guide](repo_guide.md) to see my public code here.
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
