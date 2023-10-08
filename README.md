@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Julian Martinez, the one and only, @julianeon on most platforms.
+I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a software consultant and product support aficionado living in San Francisco, California. 🏴󠁵󠁳󠁣󠁡󠁿
 
