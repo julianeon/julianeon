@@ -12,7 +12,7 @@ I use Linux (Ubuntu), the i3 window manager, and [switch between vim and Emacs](
 
 I like coding, running and reading science fiction. I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com), if you read those. 
 
-You can read my [repo guide](repo_guide.md) to see my public code here.
+You can read my [repo guide](repo_guide.md) to learn more about my public code here.
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
