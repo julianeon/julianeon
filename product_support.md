@@ -41,7 +41,7 @@ To provide truly next level customer service, I believe the whole company has to
 
 Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall. Whenever I notice patterns or repeated issues, I make sure to let Product team know. With the right leadership, the company can make updates or changes that prevent those issues from happening again in the future.
 
-It's also often good for Support to be talking to Sales, too, to know what the most important customers might not write in about but are thinking all the same, especially if it's a feature multiple important users ask repeatedly about.  
+It's also often good for Support to be talking to Sales, too, to know what the most important customers might not write in about but are thinking all the same, especially if it's a feature multiple users ask repeatedly about.  
 
 This is a good introduction to my approach to product support, but I'm happy to explain more upon request.
 
