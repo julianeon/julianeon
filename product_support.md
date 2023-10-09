@@ -1,3 +1,4 @@
+
 ## Product Support
 
 Product support is what I've spent most of my career in tech doing. I care deeply about it.
@@ -20,9 +21,13 @@ This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-in
 
 ![rules for customer service](customer_service_infographic.png)
 
+## Next Level Support
+
 To provide truly next level customer service, I believe the whole company has to be involved. 
 
 Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall.
+
+It's also often good for Support to be talking to Sales, too, to know what the most important customers might not write in about but are thinking all the same, especially if it's a missing feature that a several important users repeatedly ask about.  
 
 This is a good introduction to my approach to product support, but I'm happy to explain more upon request.
 
