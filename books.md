@@ -25,3 +25,7 @@ I also thought the Penguin History of the World was great, for what it is.
 I thought The Chosen by Karabel was incredible, a history of American university admissions.
 
 The Making of the Atomic Bomb by Rhodes is great too.
+
+On a psychological note: Barrett's How Emotions Are Made transformed by thinking about them. 
+i
+
