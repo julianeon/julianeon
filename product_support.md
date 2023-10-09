@@ -50,7 +50,7 @@ Support receives the requests from the users and answer them, but Product also n
 
 It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings, especially if it's a feature multiple users are asking repeatedly about.
 
-In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve our service week by week and month by month, we can deliver on that and help the company reach its goals.
+In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve week by week and month by month, we can do our part to help the company reach its goals.
 
 This is a good introduction to my approach to product support, but I'm happy to explain more upon request.
 
