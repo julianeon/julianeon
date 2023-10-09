@@ -13,7 +13,7 @@ These days, I use Svelte more, as I [explain](https://javascriptpage.com/react-s
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
-Languages I use: JavaScript, Python, Ruby, Go, Lisp, Rust. 
+Languages I've used: JavaScript, Python, Ruby, Go, Lisp, Rust. 
 
 I'm proficient with the command line, Linux (Ubuntu) and [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
 
