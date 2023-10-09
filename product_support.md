@@ -46,9 +46,12 @@ In a challenging situation where the customer is angry, especially in a case whe
 
 To provide truly next level customer service, I believe the whole company has to be involved. 
 
-Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall. Whenever I notice patterns or repeated issues, I make sure to let Product team know. With the right leadership, the company can make updates or changes that prevent those issues from happening again.
+Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall. Whenever I notice patterns or repeated issues, I make sure to let Product team know. 
+
 
 It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings, especially if it's a feature multiple users are asking repeatedly about.
+
+With the right leadership, the company can make updates or changes that transform the user experience, and prevent the worst issues from happening again.
 
 In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve week by week and month by month, we can do our part to help the company reach its goals.
 
