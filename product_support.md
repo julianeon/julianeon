@@ -35,6 +35,8 @@ This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-in
 
 ![rules for customer service](customer_service_infographic.png)
 
+I also try to be specific and give steps to follow in my response, as shown in Situation #2 [here](https://quick-answers.kronis.dev/).
+
 ## Next Level Support
 
 To provide truly next level customer service, I believe the whole company has to be involved. 
