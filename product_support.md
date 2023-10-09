@@ -13,7 +13,7 @@ A good solution isn't just technically right; it's also explained in a way that 
 
 Being proactive, or getting ahead of problems before they even start, is also key. This might mean creating guides or FAQs that customers can use to solve common issues on their own, which saves them from having to reach out in the first place. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
 
-In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes the user experience a smooth experience. 
+In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes the customer experience a smooth and pleasant one.
 
 ## Support Protocols
 
