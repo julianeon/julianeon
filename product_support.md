@@ -8,11 +8,11 @@ So at a minimum, there should be a system in place to register all requests, and
 
 The danger of a system like that, especially if it's processing a large number of requests, is that everyone can become a number. 
 
-I agree with Zendesk's [findings](https://cxtrends.zendesk.com/trends/trend-3), that business need to work to personalize support. 
+I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
 
 _Here’s what Zendesk’s research illuminated: most companies hold a rather narrow view of what personalization means, which is at odds with the 62 percent of consumers who think these businesses could be doing more. These customers don’t want to be lumped into some demographic bucket—they crave experiences in which they’re a segment of one, not thousands._
 
-_Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit. Consumers want that experience writ large, whether it’s in a brick-and-mortar store or on an e-commerce site._
+_Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
 
 I think it's important to make every customer feel listened to and heard, by asking the right questions, responding quickly enough for the conversation to feel alive, and making sure the resolution is something the customer can accept (minimum) and, more than that, feel great about.
 
