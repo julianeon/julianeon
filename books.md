@@ -4,6 +4,9 @@ Here is a list of books I've read and enjoyed.
 
 ### Fiction
 
+
+![dune sandworm](dune.png)
+
 I'm a big fan of Phillip K. Dick and his best books - Man In The High Castle, and Ubik, especially.
 
 Also greatly enjoyed LOTR and Dune.
@@ -26,6 +29,5 @@ I thought The Chosen by Karabel was incredible, a history of American university
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
-On a psychological note: Barrett's How Emotions Are Made transformed by thinking about them. 
-i
+On a psychological note: Barrett's How Emotions Are Made transformed by thinking about them. Recommended.
 
