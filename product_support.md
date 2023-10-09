@@ -5,7 +5,9 @@ Product support is what I've spent most of my career in tech doing. I care deepl
 
 In my view, helping customers isn't just about solving problems, but also about being a friendly guide who helps them get the best out of the technology we make for them. It's not just about the software; it's also about making sure people feel happy and confident using it.
 
-My guiding principles are pretty simple: be kind and solve problems thoroughly. Being kind means really listening to what our customers are saying, understanding that when things go wrong it can be frustrating, and reassuring them that I'm here to help without ever getting angry. It means respecting their feelings and experiences, and making sure they know I'm on their side. 
+My guiding principles are simple: be kind and solve problems thoroughly. 
+
+Being kind means really listening to what our customers are saying, understanding that when things go wrong it can be frustrating, and reassuring them that I'm here to help without ever losing control of my tone (or my temper). It means respecting their feelings and experiences, and making sure they know I'm on their side. 
 
 A good solution isn't just technically right; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other extreme, too much technical detail.
 
@@ -39,7 +41,7 @@ This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-in
 
 To provide truly next level customer service, I believe the whole company has to be involved. 
 
-Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall. Whenever I notice patterns or repeated issues, I make sure to let Product team know. With the right leadership, the company can make updates or changes that prevent those issues from happening again in the future.
+Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall. Whenever I notice patterns or repeated issues, I make sure to let Product team know. With the right leadership, the company can make updates or changes that prevent those issues from happening again.
 
 It's also often good for Support to be talking to Sales, too, to know what the most important customers might not write in about but are thinking all the same, especially if it's a feature multiple users ask repeatedly about.  
 
