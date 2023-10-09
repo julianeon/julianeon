@@ -15,7 +15,7 @@ Being proactive, or getting ahead of problems before they even start, is also ke
 
 In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes using our product a smooth experience. 
 
-## Support Protocol
+## Support Protocols
 
 At one level, support is about doing the work of answering customer questions and making sure everything is resolved to their satisfaction. 
 
