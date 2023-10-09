@@ -13,9 +13,9 @@ Being proactive, or getting ahead of problems before they even start, is also ke
 
 In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes using our product a smooth and positive experience. Whether I’m finding solutions, explaining things in a clear, simple way, or making sure our product gets better and better, my goal is always to make sure the people using our product are happy and successful.
 
+## Support Systems
 
-
-At one level, it's about doing the work of answering customer questions and making sure everything is resolved to their satisfaction. 
+At one level, support is about doing the work of answering customer questions and making sure everything is resolved to their satisfaction. 
 
 At a minimum, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
 
