@@ -31,6 +31,6 @@ I thought The Chosen by Karabel was incredible, a history of American university
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
-On a psychological note: Barrett's How Emotions Are Made was transformative.
+If you like psychology, for me, Barrett's How Emotions Are Made was transformative.
 
 
