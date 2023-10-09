@@ -8,7 +8,7 @@ I'm a big fan of Phillip K. Dick and his best books - Man In The High Castle, an
 
 Also greatly enjoyed LOTR and Dune.
 
-Two books that I loved that I rarely see discussed are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
+Two books that I loved that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
 
 On the more literary side: In Search of Lost Time, War and Peace, Moby Dick.
 
@@ -22,6 +22,6 @@ I learned a lot from Global Capitalism, by Freidan.
 
 I also thought the Penguin History of the World was great, for what it is.
 
-I read and liked The Chosen by Karabel, a history of American university admissions.
+I thought The Chosen by Karabel was incredible, a history of American university admissions.
 
 The Making of the Atomic Bomb by Rhodes is great too.
