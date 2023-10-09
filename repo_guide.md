@@ -24,6 +24,6 @@ Example, Svelte:
 
 [hometoolzone.com](https://www.hometoolzone.com/)
 
-You can see demos for some of these apps at [Glitch](https://glitch.com/@julianeon).
+You can see demos for some of my JavaScript apps at [Glitch](https://glitch.com/@julianeon).
 
 
