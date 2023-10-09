@@ -15,7 +15,7 @@ Two books that I loved that I rarely see mentioned are Bodard's Obsidian & Blood
 
 On the more literary side: In Search of Lost Time, War and Peace, Moby Dick.
 
-Also read Vol. 1 of The Arabian Nights (1 of 3) and plan to finish at least one more.
+Also read Vol. 1 of The Arabian Nights (1 of 3) and will finish at least one more.
 
 ### Nonfiction
 
@@ -29,5 +29,7 @@ I thought The Chosen by Karabel was incredible, a history of American university
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
-On a psychological note: Barrett's How Emotions Are Made transformed by thinking about them. Recommended.
+On a psychological note: Barrett's How Emotions Are Made was transformative.
+
+I recommend all these books.
 
