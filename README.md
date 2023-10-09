@@ -6,12 +6,13 @@ I'm a software consultant and product support aficionado living in San Francisco
 
 I worked at PagerDuty, Ripple and GraphQL, helping users with open source products.
 
-In the past few years, I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. These days, I use [Svelte](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) more (note: I wrote that comparison article and the code shown there). 
+In the past few years, I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. 
+
+These days, I use [Svelte](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) more (note: I wrote that comparison article and the code shown there). 
 
 Languages I use: JavaScript, Python, Ruby, Go, Lisp, Rust.
 
 I'm a fan of Linux (Ubuntu), the i3 window manager, and [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
-
 
 I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com). I like coding, running and reading.
 
