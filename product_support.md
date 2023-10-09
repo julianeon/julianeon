@@ -11,7 +11,9 @@ A good solution isn't just technically right; it's also explained in a way that 
 
 Being proactive, or getting ahead of problems before they even start, is also key. This might mean creating guides or FAQs that customers can use to solve common issues on their own, which saves them from having to reach out to us in the first place. 
 
-In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes using our product a smooth and positive experience. Whether I’m finding solutions, explaining things in a clear, simple way, or making sure our product gets better and better, my goal is always to make sure the people using our product are happy and successful.
+In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes using our product a smooth and positive experience. 
+
+Whether I’m finding solutions, explaining things in a clear, simple way, or making sure our product gets better and better, my goal is always to make sure that our users are happy and successful when using our service.
 
 ## Support Systems
 
