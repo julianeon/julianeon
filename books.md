@@ -7,7 +7,7 @@ I recommend all these books.
 ### Fiction
 
 
-![dune sandworm](dune.png)
+![man playing guitar before a dune sandworm](dune.png)
 
 I'm a big fan of Phillip K. Dick and his best books - Man In The High Castle and Ubik, especially.
 
