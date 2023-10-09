@@ -7,9 +7,9 @@ I'm a software consultant and product support aficionado living in San Francisco
 
 I worked at PagerDuty, Ripple and GraphQL, helping users with open source products.
 
-In the past few years, I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, and AppSync. 
+In the past few years, I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, and Lambda. 
 
-These days, I use [Svelte](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) more (note: I wrote that comparison article and the code shown there). 
+These days, I use Svelte more, as I [explain](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) in this article on my site, javascriptpage.com.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
@@ -26,7 +26,7 @@ I like coding, [running](https://goldengaterunningclub.org/) (former member) and
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
-_Image of the first transistor from [Brittanica.com](https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs), circa 1947, ["the single greatest discovery in the last 100 years"](https://www.extremetech.com/extreme/175004-the-genesis-of-the-transistor-the-single-greatest-discovery-in-the-last-100-years)._
+_Image of the first [transistor](https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs), made in 1947, ["the single greatest discovery in the last 100 years."](https://www.extremetech.com/extreme/175004-the-genesis-of-the-transistor-the-single-greatest-discovery-in-the-last-100-years)_
 
 ![the first transistor](transistor.png)
 
