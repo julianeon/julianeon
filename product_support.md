@@ -37,7 +37,7 @@ This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-in
 
 I also try to be specific and give steps to follow in my response, as shown by the solution presented in Situation #2 [here](https://quick-answers.kronis.dev/).
 
-In a challening situation where the customer is angry, especially in a situation where the company is at fault, I think the L.A.S.T. method (Listen, Apologize, Solve, Thank) can be a good approach, when intelligently applied.
+In a challenging situation where the customer is angry, especially in a situation where the company is at fault, I think the L.A.S.T. method (Listen, Apologize, Solve, Thank) can be a good approach, carefully applied.
 
 
 [![emma's customer support youtube video](yt_last_method.png)](https://www.youtube.com/watch?v=dnpMqQnt8WY)
