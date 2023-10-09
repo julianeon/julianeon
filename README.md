@@ -9,7 +9,7 @@ I worked at PagerDuty, Ripple and GraphQL, helping users with open source produc
 
 In the past few years, I've used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, and Lambda. 
 
-These days, I use Svelte more, as I [explain](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) in this article on my site, javascriptpage.com.
+These days, I use Svelte more, as I [explain](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) in this article on my JS tutorial site, javascriptpage.com.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
