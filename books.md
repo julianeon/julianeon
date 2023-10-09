@@ -31,7 +31,7 @@ I learned a lot from Global Capitalism by Freidan.
 
 The Penguin History of the World was great, for what it is.
 
-The Chosen by Karabel is incredible, a history of American university admissions.
+The Chosen by Karabel was incredible, a history of American university admissions.
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
