@@ -2,6 +2,8 @@
 
 Here is a list of books I've read and enjoyed.
 
+I recommend all these books.
+
 ### Fiction
 
 
@@ -31,5 +33,4 @@ The Making of the Atomic Bomb by Rhodes is great too.
 
 On a psychological note: Barrett's How Emotions Are Made was transformative.
 
-I recommend all these books.
 
