@@ -45,7 +45,7 @@ To see great customer service in action, see Steve Jobs turning a tense moment i
 
 To provide truly next level customer service, I believe the whole company has to be involved. 
 
-Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings. 
+Support receives the requests from the users and answers them, but it's up to Product to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings. 
 
 Whenever I notice patterns or repeated issues, I make sure to let Product team know. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf." - [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw).
 
