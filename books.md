@@ -25,16 +25,18 @@ Greatly enjoyed LOTR and Dune.
 
 For a history of tech, Fire In The Valley is outstanding.
 
-Tim Wu's The Attention Merchants is terrific too.
+Tim Wu's The Attention Merchants is terrific too, more of a global history of technology.
+
+The Maverick & His Machine by Maney makes a good companion piece, starting with IBM's origins as a conglomerate making things like calculating machines.
 
 I learned a lot from Global Capitalism by Freidan.
 
-The Penguin History of the World was great, for what it is.
-
-The Chosen by Karabel was incredible, a history of American university admissions.
+The Chosen by Karabel is incredible, a history of American university admissions.
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
-If you like psychology, Barrett's How Emotions Are Made will teach you a lot about yourself.
+The Penguin History of the World was also great, for what it is.
+
+If you like psychology, Barrett's How Emotions Are Made is a classic in the making.
 
 
