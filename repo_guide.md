@@ -6,7 +6,7 @@ Most of my repos are in JavaScript.
 
 To see a recent example of a customized React template being used for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
-This is the live (demo) version of my repo:
+This is the live (demo) version of that repo:
 
 http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/
 
