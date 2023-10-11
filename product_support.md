@@ -51,7 +51,7 @@ Whenever I notice patterns or repeated issues, I make sure to let Product team k
 
 
 
-With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst issues from repeating.
+With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst things from reoccurring.
 
 In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can do our part to help the company reach its goals - by serving our customers.
 
