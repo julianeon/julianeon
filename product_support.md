@@ -52,7 +52,7 @@ It's also good for Support to talk to Sales, to know what the most important cus
 
 With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst issues from repeating.
 
-In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can do our part to help the company reach its goals - with the help of our users.
+In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can do our part to help the company reach its goals - by serving our customers.
 
 This is a good introduction to my approach to product support, but I'm happy to explain more upon request.
 
