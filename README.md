@@ -21,7 +21,7 @@ I'm proficient with the command line, Linux (Ubuntu) and [vim & Emacs](https://m
 
 I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com). 
 
-I like coding, [running](https://goldengaterunningclub.org/) (former member) and [books](books.md).
+I like coding, running [(former member)](https://goldengaterunningclub.org/) and [books](books.md).
 
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
