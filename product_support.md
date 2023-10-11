@@ -47,7 +47,7 @@ To provide truly next level customer service, I believe the whole company has to
 
 Support receives the messages from users and answers them, but it's up to Product to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings. 
 
-Whenever I notice patterns or repeated issues, I make sure to let Product team know. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf." - [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw).
+Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf." - [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw).
 
 
 
