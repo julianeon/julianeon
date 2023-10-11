@@ -35,7 +35,7 @@ This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-in
 
 ![rules for customer service](customer_service_infographic.png)
 
-I also try to be specific and give steps to follow in my response, as shown by the technical solution shown in Situation #2 [here](https://quick-answers.kronis.dev/).
+I also try to be specific and give steps to follow in my response, as shown by the technical solution shown in [Situation #2](https://quick-answers.kronis.dev/).
 
 To see great customer service in action, see Steve Jobs turning a confrontation into a primer on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
 
