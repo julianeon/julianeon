@@ -27,7 +27,7 @@ For a history of tech, Fire In The Valley is outstanding.
 
 Tim Wu's The Attention Merchants is terrific too, more of a global history of technology.
 
-The Maverick & His Machine by Maney makes a good companion piece, starting with IBM's origins as a conglomerate making things like calculating machines.
+The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
 
 I learned a lot from Global Capitalism by Freidan.
 
