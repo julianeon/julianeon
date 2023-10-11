@@ -17,7 +17,7 @@ In short, my job in support is not just about fixing things, but also about bein
 
 ## Support Protocols
 
-At one level, support is about doing the work of answering customer questions, one by one, so that everything is tied up by the end of the conversation.
+At one level, support is about doing the work of answering customer questions so that everything is tied up by the end of the conversation.
 
 At a minimum, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
 
@@ -48,11 +48,11 @@ To provide truly next level customer service, I believe the whole company has to
 Support receives the requests from the users and answer them, but Product also needs to be involved to prioritize the feature requests and user experience overall. Whenever I notice patterns or repeated issues, I make sure to let Product team know. 
 
 
-It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings, especially if it's a feature multiple users are asking repeatedly about.
+It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings, especially if it's a feature multiple users are asking about.
 
-With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst issues from reoccurring.
+With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst issues from repeating.
 
-In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve week by week and month by month, we can do our part to help the company reach its goals.
+In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve week by week and month by month, we can do our part to help the company reach its goals by satisfying our users.
 
 This is a good introduction to my approach to product support, but I'm happy to explain more upon request.
 
