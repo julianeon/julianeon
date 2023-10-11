@@ -31,11 +31,12 @@ The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a g
 
 I learned a lot from Global Capitalism by Freidan.
 
+It goes well with The Penguin History of the World, which gives you the basics. 
+
 The Chosen by Karabel is incredible, a history of American university admissions.
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
-The Penguin History of the World was also great, for what it is.
 
 If you like psychology, Barrett's How Emotions Are Made is a classic in the making.
 
