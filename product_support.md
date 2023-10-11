@@ -29,7 +29,7 @@ _Here’s what Zendesk’s research illuminated: most companies hold a rather na
 
 _Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
 
-I think it's important to make every customer feel heard, by asking the right questions, responding quickly enough for the conversation to feel alive, and making sure the resolution is something the customer can accept and, more than that, feel positive about by the end.
+I think it's important to make every customer feel heard, by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something the customer can accept and, more than that, feel positive about by the end.
 
 This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I follow in my work.
 
