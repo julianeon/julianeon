@@ -26,7 +26,7 @@ I like coding, [running](https://goldengaterunningclub.org/) (former member) and
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
-_Image of the first [transistor](https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs), made in 1947, ["the single greatest discovery in the last 100 years."](https://www.extremetech.com/extreme/175004-the-genesis-of-the-transistor-the-single-greatest-discovery-in-the-last-100-years)_
+_[Image](https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs) of the first transistor, made in 1947, ["the single greatest discovery in the last 100 years."](https://www.extremetech.com/extreme/175004-the-genesis-of-the-transistor-the-single-greatest-discovery-in-the-last-100-years)_
 
 ![the first transistor](transistor.png)
 
