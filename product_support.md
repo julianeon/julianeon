@@ -1,7 +1,7 @@
 
 ## Product Support
 
-Product support is what I've spent most of my career in tech doing. I care deeply about it.
+Product support is what I've spent most of my career in tech doing. I'm passionate about it.
 
 In my view, helping customers isn't just about solving problems, but also about being an empathetic guide who helps them get the best out of the technology we make for them. It's not just about the software; it's also about making sure people feel happy and confident using it.
 
@@ -9,15 +9,15 @@ My guiding principles are simple: be kind and solve problems thoroughly.
 
 Being kind means really listening to what our customers are saying, understanding that when things go wrong it can be frustrating, and reassuring them that I'm here to help without ever losing control of my tone (or my temper). It means respecting their feelings and experiences, and making sure they know I'm on their side. 
 
-A good solution isn't just technically right; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other extreme, too much technical detail.
+A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, too much detail.
 
-Being proactive, or getting ahead of problems before they even start, is also key. This might mean creating guides or FAQs that customers can use to solve common issues on their own, which saves them from having to reach out in the first place. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
+Being proactive, or getting ahead of problems before they get big, is also key. This might mean creating guides or FAQs that customers can use to solve common issues on their own. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
 
 In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes the customer experience a smooth and pleasant one.
 
 ## Support Protocols
 
-At one level, support is about doing the work of answering customer questions, one by one, and making sure everything is resolved by the end of the conversation.
+At one level, support is about doing the work of answering customer questions, one by one, so that everything is tied up by the end of the conversation.
 
 At a minimum, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
 
