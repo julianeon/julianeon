@@ -6,7 +6,7 @@ Most of my repos are web apps made with JavaScript. Most of the recent ones are 
 
 To see a recent example of a React template I customized for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
-This is the live (demo) version of that repo:
+This is the live (demo) version of that repo, which I'm hosting on AWS:
 
 http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/
 
