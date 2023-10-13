@@ -2,9 +2,9 @@
 
 This is a guide to my repositories on GitHub, linked to from my [profile](./README.md). 
 
-Most of my repos are in JavaScript. 
+Most of my repos are web apps made with JavaScript. Most of the recent ones are made with React. 
 
-To see a recent example of a customized React template being used for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
+To see a recent example of a React template I customized for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
 This is the live (demo) version of that repo:
 
