@@ -29,11 +29,11 @@ Startup histories: Stone's The Everything Store (Amazon), Levy's Facebook: The I
 
 For a history of tech, Fire In The Valley is outstanding.
 
-Tim Wu's The Attention Merchants is terrific too, more of a global history of technology.
+Tim Wu's The Attention Merchants is terrific too, a global history of technology.
 
 The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
 
-I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World.
+I learned a lot from Global Capitalism by Freidan. It pairs well with The Penguin History of the World.
 
 The Chosen by Karabel is incredible, a history of American university admissions.
 
