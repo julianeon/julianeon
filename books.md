@@ -25,8 +25,6 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 ### Nonfiction
 
-Among business biographies, my favorite is Ray Kroc's Grinding It Out.
-
 For a history of tech, Fire In The Valley is outstanding.
 
 Tim Wu's The Attention Merchants is terrific too, more of a global history of technology.
@@ -38,6 +36,8 @@ I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin
 The Chosen by Karabel is incredible, a history of American university admissions.
 
 The Making of the Atomic Bomb by Rhodes is great too.
+
+Among business biographies, my favorite is Ray Kroc's Grinding It Out.
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
