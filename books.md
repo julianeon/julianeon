@@ -25,6 +25,8 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 ### Nonfiction
 
+Among business biographies, my favorite is Ray Kroc's Grinding It Out.
+
 For a history of tech, Fire In The Valley is outstanding.
 
 Tim Wu's The Attention Merchants is terrific too, more of a global history of technology.
