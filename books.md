@@ -21,11 +21,13 @@ Greatly enjoyed LOTR and Dune. As a kid, I liked A Wrinkle of Time.
 
 For period fiction, Clarke's Jonathan Strange and Mr. Norrell.
 
+For contemporary fiction, Smith's White Teeth.
+
 On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of The Arabian Nights (1 of 3). 
 
 ### Nonfiction
 
-Startup histories: Stone's The Everything Store (Amazon), Levy's Facebook: The Inside Story, Frier's No Filter (Instagram).
+Startup histories: Stone's The Everything Store (Amazon), Levy's Facebook: The Inside Story, Frier's No Filter (Instagram), Bilton's Hatching Twitter.
 
 For a history of tech, Fire In The Valley is outstanding.
 
