@@ -25,6 +25,8 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 ### Nonfiction
 
+Startup histories: Stone's The Everything Store (Amazon), Levy's Facebook: The Inside Story, Frier's No Filter (Instagram).
+
 For a history of tech, Fire In The Valley is outstanding.
 
 Tim Wu's The Attention Merchants is terrific too, more of a global history of technology.
