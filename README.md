@@ -3,7 +3,7 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a software consultant and product support aficionado living in San Francisco, California. Here are my thoughts on [product support](product_support.md).
+I'm a software consultant and product support aficionado living in San Francisco, California. You can read my thoughts on [product support](product_support.md).
 
 I worked at PagerDuty, Ripple and GraphQL, helping users with open source products.
 
