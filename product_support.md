@@ -7,9 +7,9 @@ In my view, helping customers isn't just about solving problems, but about being
 
 My guiding principles are simple: be kind and solve problems thoroughly. 
 
-Being kind means really listening to what customers are saying, knowing that when things go wrong it can be frustrating, and reassuring them that we're here to help without ever losing control of our tone (or temper). It means respecting their experience and making sure they know I'm on their side. 
+Being kind means really listening to what customers are saying, knowing that when things go wrong it can be frustrating, and reassuring them that we're here to help without ever losing control of our tone (or temper). It means respecting their experience and making sure they know we're on their side. 
 
-A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, being too detailed.
+A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, excessive detail.
 
 Being proactive is also important. This might mean creating guides or FAQs that customers can use to solve common issues on their own. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
 
