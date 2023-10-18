@@ -47,11 +47,12 @@ To provide next level customer service, I believe the whole company has to be in
 
 Support receives the messages from users and answers them, but it's up to Product to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are saying in meetings. 
 
-Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
+Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. 
 
-With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst things from repeating.
 
-At the end of the day, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can do our part to help the company reach its goals - through our customers.
+With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst things from repeating. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
+
+At the end of the day, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can do our part to help the company reach its goals - by helping the people we serve.
 
 
 
