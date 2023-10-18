@@ -1,19 +1,19 @@
 
 ## Product Support
 
-Product support is what I've spent most of my career in tech doing. I'm passionate about doing it well.
+Product support is what I've spent most of my career doing. I'm passionate about doing it well.
 
-In my view, helping customers isn't just about solving problems, but also about being an empathetic guide who helps them get the best out of the technology we make for them. It's not just about the software; it's also about making sure people feel happy and confident using it.
+In my view, helping customers isn't just about solving problems, but about being a guide who helps them get the most out of the technology they use. It's about more than the software; it's also about making sure people feel happy and confident while they use it.
 
 My guiding principles are simple: be kind and solve problems thoroughly. 
 
-Being kind means really listening to what our customers are saying, understanding that when things go wrong it can be frustrating, and reassuring them that I'm here to help without ever losing control of my tone (or my temper). It means respecting their feelings and experiences, and making sure they know I'm on their side. 
+Being kind means really listening to what customers are saying, knowing that when things go wrong it can be frustrating, and reassuring them that we're here to help without ever losing control of our tone (or temper). It means respecting their experience and making sure they know I'm on their side. 
 
-A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, too much detail.
+A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, being too detailed.
 
-Being proactive, or getting ahead of problems before they get big, is also key. This might mean creating guides or FAQs that customers can use to solve common issues on their own. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
+Being proactive is also important. This might mean creating guides or FAQs that customers can use to solve common issues on their own. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
 
-In short, my job in support is not just about fixing things, but also about being a friendly, understanding helper who makes the customer experience a smooth and pleasant one.
+In short, my job in support goes beyond fixing things. It's about being a friendly, understanding helper who makes the customer experience a smooth and pleasant one.
 
 ## Support Protocols
 
@@ -21,7 +21,7 @@ At one level, support is about doing the work of answering customer questions so
 
 At a minimum, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
 
-The danger of a system like that, especially if it's processing a large number of requests, is that everyone can become a number. 
+The danger of a system like that, especially if it's handling a lot of requests, is that everyone can become a number. 
 
 I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
 
@@ -29,9 +29,9 @@ _Here’s what Zendesk’s research illuminated: most companies hold a rather na
 
 _Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
 
-I think it's important to make every customer feel heard, by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something the customer can accept and, more than that, feel positive about by the end.
+I think it's important to make every customer feel like an individual, by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something the customer can accept and, more than that, feel positive about by the end.
 
-This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I follow in my work.
+This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I also strive to follow.
 
 ![rules for customer service](customer_service_infographic.png)
 
@@ -41,21 +41,18 @@ To see great customer service in action, see Steve Jobs turning a tense moment i
 
 [![steve jobs speaking on customer experience](customer_experience.png)](https://www.youtube.com/watch?v=r2O5qKZlI50)
 
-## Next Level Support
+## The Next Level 
 
-To provide truly next level customer service, I believe the whole company has to be involved. 
+To provide next level customer service, I believe the whole company has to be involved. 
 
-Support receives the messages from users and answers them, but it's up to Product to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are thinking and saying in meetings. 
+Support receives the messages from users and answers them, but it's up to Product to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are saying in meetings. 
 
-Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf." - [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw).
+Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
 
+With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst things from repeating.
 
+At the end of the day, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can do our part to help the company reach its goals - through our customers.
 
-With the right leadership, the company can make updates or changes that transform the user experience, that make the best things better and prevent the worst things from reoccurring.
-
-In the end, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can do our part to help the company reach its goals - by serving our customers.
-
-This is a good introduction to my approach to product support, but I'm happy to explain more upon request.
 
 
 
