@@ -24,9 +24,9 @@ Example, Svelte:
 
 [hometoolzone.com](https://www.hometoolzone.com/)
 
-I have completed more advanced apps with authentication and access to various AWS services such as AppSync, but those are not as shareable, since they can't be hosted locally as easily as an app without AWS credentials. 
+I have completed more advanced apps with authentication and access to various AWS services such as AppSync, but those aren't here since they can't be hosted locally as easily as an app without AWS credentials. 
 
-I would be willing to share that code upon request.
+I can share that code upon request.
 
 You can see demos for some of my JavaScript apps at [Glitch](https://glitch.com/@julianeon).
 
