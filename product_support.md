@@ -54,7 +54,7 @@ Whenever I notice patterns or repeated issues, I make sure to let the Product te
 
 With the right leadership, the company can make updates or changes that transform the user experience, in ways that make the best things better and prevent the worst issues from repeating. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
 
-At the end of the day, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can get the company to reach its goals - by helping the people who pay us to help them.
+At the end of the day, we're all on the same team. Our job is to deliver an exceptional experience to customers. By listening to their needs, acting on what we've learned, and continuing to improve every quarter, we can help the company to reach its goals - by helping the people who pay us to help them.
 
 
 
