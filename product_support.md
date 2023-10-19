@@ -21,7 +21,7 @@ At one level, support is about doing the work of answering customer questions so
 
 At a minimum, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
 
-The danger of a system like that, especially if it's handling a lot of requests, is that the customer can become a number, a statistic that only counts in the aggregate.
+The danger of a system like that, especially if it's handling a lot of requests, is that the customer can become a number, a statistic in the aggregate.
 
 I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
 
