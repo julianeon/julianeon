@@ -17,7 +17,7 @@ I like Neal Stephenson too: Snow Crash, Cryptonomicon.
 
 Two books that I loved that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
 
-Greatly enjoyed LOTR and Dune. As a kid, I liked A Wrinkle of Time.
+Greatly enjoyed LOTR and Dune. As a kid, I liked L'Engle's A Wrinkle in Time.
 
 For period fiction, Clarke's Jonathan Strange and Mr. Norrell.
 
