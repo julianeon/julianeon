@@ -3,7 +3,7 @@
 
 Product support is what I've spent most of my career doing. I'm passionate about doing it well.
 
-In my view, helping customers isn't just about solving problems. It's about being a guide who helps them get the most out of our product. It goes beyond the software, to making sure people feel happy and confident about the software they use.
+In my view, helping customers isn't just about solving problems. It's about being a guide who helps them get the most out of our product. It goes beyond the software, to making sure people feel happy and confident while they're using our software.
 
 My guiding principles are simple: be kind and solve problems thoroughly. 
 
