@@ -13,7 +13,7 @@ As a consultant, I used React a lot with AWS, especially AWS Amplify and its ass
 
 Languages I've used: JavaScript, Python, Ruby, Go, Lisp, Perl, Rust. 
 
-I'm proficient with the command line, Linux (Ubuntu) and [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
+I'm proficient with the command line, Linux (Linux Essentials certification) and [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
 
 ## Interests 
 
