@@ -29,7 +29,9 @@ _Here’s what Zendesk’s research illuminated: most companies hold a rather na
 
 _Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
 
-It's important to make every customer feel like an individual, by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something the customer can accept and, more than that, feel positive about by the end.
+It's important to make every customer feel like an individual, by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something the customer can accept and, more than that, feel positive about by the end. Language is important too: be polite, but don't overdo it, because that can sound like an insincere template. 
+
+In other words, be good, but be human.
 
 This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I also strive to follow.
 
