@@ -47,7 +47,7 @@ To see great customer service in action, see Steve Jobs turning a tense moment i
 
 To provide next level customer service, I believe the whole company has to be involved. 
 
-Support receives the messages from users and answers them, but it's up to Product to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers might not write in about but are saying in meetings. 
+Support receives the messages from users and answers them, but other parts of the company have to prioritize the feature requests and user experience overall. It's also good for Support to talk to Sales, to know what the most important customers may not write down but are saying in meetings. 
 
 Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. If customers are saying it, I'll communicate it.
 
