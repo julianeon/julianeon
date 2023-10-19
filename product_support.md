@@ -33,8 +33,6 @@ It's important to make every customer feel like an individual, by asking the rig
 
 Language is important too: be polite, but don't overdo it, because that can sound insincere and too much like a template. 
 
-In other words, be good, but also be human.
-
 This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I also strive to follow.
 
 ![rules for customer service](customer_service_infographic.png)
