@@ -3,13 +3,13 @@
 
 Product support is what I've spent most of my career doing. I'm passionate about doing it well.
 
-In my view, helping customers isn't just about solving problems, but about being a guide who helps them get the most out of the technology they use. It's about more than the software; it's also about making sure people feel happy and confident while they use it.
+In my view, helping customers isn't just about solving problems. It's about being a guide who helps them get the most out of their service. It goes beyond the software, to making sure people feel happy and confident about the software they use.
 
 My guiding principles are simple: be kind and solve problems thoroughly. 
 
-Being kind means really listening to what customers are saying, knowing that when things go wrong it can be frustrating, and reassuring them that we're here to help without ever losing control of our tone (or temper). It means respecting their experience and making sure they know we're on their side. 
+Being kind means really listening to what customers are saying. It acknowledges that when things go wrong it can be frustrating. It means reassuring the customer that we're here to help without ever losing control of our tone (or temper). Whatever happens, it's important to convey that we're on their side. 
 
-Solving problems means giving them what they asked for: a real, viable, solution. A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, excessive detail.
+Solving problems means giving the customer what they asked for: a real, viable, solution. A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, excessive detail.
 
 Being proactive is also important. This might mean creating guides or FAQs that customers can use to solve common issues on their own. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
 
