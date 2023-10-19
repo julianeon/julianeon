@@ -45,4 +45,4 @@ Among business biographies, my favorite is Ray Kroc's Grinding It Out.
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
-
+If you like Unix, I really enjoyed Kernighan's Unix: A History.
