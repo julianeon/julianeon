@@ -11,7 +11,7 @@ Being kind means really listening to what customers are saying. It acknowledges 
 
 Solving problems means giving the customer what they asked for: a real, viable, solution. A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, unnecessary detail.
 
-Being proactive is also important. This might mean creating guides or FAQs that customers can use to solve common issues on their own. It might also mean [writing scripts](https://gist.github.com/julianeon?direction=desc&sort=created) to demonstrate how to do something.
+Being proactive is also important. This might mean creating guides or FAQs that customers can use to solve common issues on their own, following best practices (["building a knowledge base"](https://zapier.com/blog/build-knowledge-base-documentation/) from Zapier). It might also mean writing scripts to demonstrate how to do something ([gist.github.com])(https://gist.github.com/julianeon?direction=desc&sort=created).
 
 In short, my job in support goes beyond fixing things. It's about being a friendly, understanding helper who transforms the customer experience into a smooth and pleasant one.
 
