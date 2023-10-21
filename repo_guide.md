@@ -30,6 +30,6 @@ I can share that code upon request.
 
 You can see demos for some of my JavaScript apps at [Glitch](https://glitch.com/@julianeon).
 
-They're a mix of practical and [fun](https://github.com/julianeon/psychedlic-eye) (best viewed on [desktop](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com/) - writeup [here](https://javascriptpage.com/react-psychedelic-eye-art)).
+They're a mix of practical and [fun](https://github.com/julianeon/psychedlic-eye) (best [viewed](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com/) on desktop or on mobile if you turn your phone sideways - writeup [here](https://javascriptpage.com/react-psychedelic-eye-art)).
 
 ![psychedelic eye art](./psychedelic_eyes.png)
