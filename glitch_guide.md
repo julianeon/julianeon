@@ -25,7 +25,7 @@ In this app, you select the color of the ball and enter a number for the size in
 
 ## circles
 
-In this app, a circle within a circle appears on the screen, and it flashes a different colored circle within a few seconds, alternating between the circle pairs
+In this app, a circle within a circle appears on the screen, and it flashes a different colored circle within a few seconds, alternating between two circle pairs.
 
 ![glitch circle screenshot](./glitch_circles.png)
 
@@ -33,7 +33,11 @@ In this app, a circle within a circle appears on the screen, and it flashes a di
 
 ## memory game
 
-In this game, you can click on squares to uncover names briefly, as in the card game of memory. When you click the same name on different squares consecutively, the word pair stays uncovered. When you uncover all the names, you win.
+In this game, you can click on squares to uncover names briefly, as in the card game of memory. 
+
+When you click the same name on different squares consecutively, the word pair stays uncovered. 
+
+When you uncover all the names, you win.
 
 ![glitch memory game screenshot](./glitch_memory.png)
 
@@ -99,6 +103,7 @@ In this app, you enter text to magnify, and it appears in a very large text size
 ## chatter
 
 In this app, a party chat is simulated. 
+Important: scroll down in the iframe after the app loads to find the red button. You must click this to advance the text.
 
 ![simulated part chat](./glitch_chat.png)
 
@@ -114,7 +119,7 @@ In this app, text is stacked across a boldly colored screen.
 
 ## svger
 
-In this app, images are combined with text you can click through to the end.
+In this app, images are combined with text, as in a slideshow, you can click through to the end.
 
 ![svg based website](./glitch_svger.png)
 
@@ -122,7 +127,7 @@ In this app, images are combined with text you can click through to the end.
 
 ## red no
 
-In this app, a red letter 'no' flashes across the screen, with more punctuation and urgency as time goes on.
+In this app, a red letter 'no' flashes across the screen, with more punctuation and urgency over time.
 
 ![glitch-redno](./glitch_redno.png)
 
@@ -130,7 +135,7 @@ In this app, a red letter 'no' flashes across the screen, with more punctuation 
 
 ## team cards
 
-In this app, a professional looking 'teams' section is simulated, in a small file.
+In this app, a professional looking 'teams' section is simulated, showcasing the design and changed text when you click on an image.
 
 ![glitch-team-cards](./glitch_team_cards.png)
 
@@ -138,7 +143,7 @@ In this app, a professional looking 'teams' section is simulated, in a small fil
 
 ## redacted
 
-In this app, you can click on text to 'redact' it, or replace it with a black bar.
+In this app, you can click on individual words to 'redact' them, or replace them inline with a black bar.
 
 ![glitch-redacted](./glitch_redacted.png)
 
