@@ -22,9 +22,7 @@ I host almost all my apps, once complete, on AWS.
 
 Here's an example made with Svelte: [hometoolzone.com](https://www.hometoolzone.com/)
 
-I have completed more advanced apps with authentication and access to various AWS services such as AppSync, but those aren't here since they can't be hosted locally as easily as an app without AWS credentials. 
-
-I can share that code upon request.
+I have completed more advanced apps with authentication and access to various AWS services such as AppSync, but those aren't here since they can't be run locally as easily as an app without AWS credentials. I can share that code upon request.
 
 You can see demos for some of my JavaScript apps at [Glitch](https://glitch.com/@julianeon).
 
@@ -43,4 +41,7 @@ blog-basic-react: [demo](https://blog-basic.s3.amazonaws.com/index.html), [code]
 react-state-router: [demo](http://reactstate.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/react-state-router), [writeup](https://javascriptpage.com/react-state-routing).
 
 javascript-get-request: [demo](https://javascriptpage.com/react-state-routing), [code](https://gist.github.com/julianeon/d4c9fe06ad991ad81dd071edb98bb1f9), [writeup](https://javascriptpage.com/javascript-get-request-example).
+
+react-landing-page-learn-react: [demo](http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/React-Landing-Page-Learn-React)
+
 
