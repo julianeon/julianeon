@@ -122,7 +122,7 @@ In this app, text is stacked across a boldly colored screen.
 
 ## svger
 
-In this app, images are combined with text, as in a slideshow, you can click through to the end.
+In this app, images (svg files) are combined with text, as in a slideshow, you can click through to the end.
 
 ![svg based website](./glitch_svger.png)
 
