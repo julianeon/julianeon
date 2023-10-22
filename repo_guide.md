@@ -20,7 +20,7 @@ Repos with 'react' in the name were made with React, using hooks.
 
 I host almost all my apps, once complete, on AWS.
 
-Example, Svelte:
+An example made with Svelte:
 
 [hometoolzone.com](https://www.hometoolzone.com/)
 
@@ -30,6 +30,9 @@ I can share that code upon request.
 
 You can see demos for some of my JavaScript apps at [Glitch](https://glitch.com/@julianeon).
 
-They're a mix of practical and [fun](https://github.com/julianeon/psychedlic-eye) (best [viewed](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com/) on desktop or on mobile if you turn your phone sideways - writeup [here](https://javascriptpage.com/react-psychedelic-eye-art)).
+I've also written up explanations of the code and what the app does on JavaScriptPage. For easier access, I'm listing the repos with demos and/or writeups belows.
 
 ![psychedelic eye art](./psychedelic_eyes.png)
+
+psychedelic-eye: [code](https://github.com/julianeon/psychedlic-eye), [demo](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com/) (best viewed on desktop or on mobile if you turn your phone sideways), [writeup](https://javascriptpage.com/react-psychedelic-eye-art)).
+
