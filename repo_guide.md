@@ -20,9 +20,7 @@ Repos with 'react' in the name were made with React, using hooks.
 
 I host almost all my apps, once complete, on AWS.
 
-An example made with Svelte:
-
-[hometoolzone.com](https://www.hometoolzone.com/)
+Here's an example made with Svelte: [hometoolzone.com](https://www.hometoolzone.com/)
 
 I have completed more advanced apps with authentication and access to various AWS services such as AppSync, but those aren't here since they can't be hosted locally as easily as an app without AWS credentials. 
 
