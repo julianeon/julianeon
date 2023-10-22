@@ -26,7 +26,7 @@ I have completed more advanced apps with authentication and access to various AW
 
 You can see demos of 16 of my JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon). Be aware that they take 1-3 minutes to load. Once they do, you'll see the demo and a link to the code towards the bottom of the page.
 
-Read my [Glitch guide](./glitch_guide.md) for screenshots of the demos hosted there, if you'd rather see what they do before waiting, or just want to see the end result.
+Read my [Glitch guide](./glitch_guide.md) for screenshots of the demos hosted there, if you'd rather see what they do before selecting one, or just want to see the end result.
 
 The Glitch example shown below is [julianeon-memory](https://glitch.com/~julianeon-memory).
 
