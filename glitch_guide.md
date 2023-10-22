@@ -103,6 +103,7 @@ In this app, you enter text to magnify, and it appears in a very large text size
 ## chatter
 
 In this app, a party chat is simulated. 
+
 Important: scroll down in the iframe after the app loads to find the red button. You must click this to advance the text.
 
 ![simulated part chat](./glitch_chat.png)
