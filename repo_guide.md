@@ -28,7 +28,7 @@ You can see demos of 16 of my JavaScript apps on [Glitch](https://glitch.com) at
 
 The example shown below is [julianeon-memory](https://glitch.com/~julianeon-memory).
 
-![glitch memory game](./glitch_julianeon_memory.png)
+![glitch page instructions to use](./glitch_instructions.png)
 
 For several of my other JS apps (not on Glitch), I wrote up explanations of the code and what it does on [javascriptpage.com](https://javascriptpage.com). 
 
