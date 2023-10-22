@@ -26,7 +26,7 @@ I have completed more advanced apps with authentication and access to various AW
 
 You can see demos for some of my JavaScript apps at [Glitch](https://glitch.com/@julianeon).
 
-I've also written up explanations of the code and what the app does on JavaScriptPage. For easier access, I'm listing the repos with demos and/or writeups belows.
+I've also written up explanations of the code and what the app does on JavaScriptPage. For easier access, I'm listing the repos with demos and writeups (when available) below.
 
 ![psychedelic eye art](./psychedelic_eyes.png)
 
@@ -42,6 +42,6 @@ react-state-router: [demo](http://reactstate.s3-website-us-east-1.amazonaws.com/
 
 javascript-get-request: [demo](https://javascriptpage.com/react-state-routing), [code](https://gist.github.com/julianeon/d4c9fe06ad991ad81dd071edb98bb1f9), [writeup](https://javascriptpage.com/javascript-get-request-example).
 
-react-landing-page-learn-react: [demo](http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/React-Landing-Page-Learn-React)
+react-landing-page-learn-react: [demo](http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
 
