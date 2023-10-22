@@ -17,7 +17,7 @@ The apps are shown below in the same order they appear in on my Glitch profile p
 
 ## bouncing balls 
 
-In this app, you select the color of the ball and enter a number for the size in pixels of the ball (I suggest 100). It will then bounce onto the screen, using that size and color.
+In this app, you select the color of the ball and enter a number for the size in pixels of the ball (I suggest 100). A ball will then bounce onto the screen, of that size and color.
 
 ![glitch ball game screenshot](./glitch_bouncing_balls.png)
 
@@ -49,18 +49,24 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## striper
 
+In this app, stripes of different text cris-cross the screen, with text in the center.
+
 ![stripes on a page](./glitch_striper.png)
 
 [julianeon-striper](https://glitch.com/~julianeon-striper)
 
 ## shrimp
 
-![whale on a background](./glitch_shrimp.png)
+In this app, each time you click on the button, the shrimp rotates a random amount, and the click count increases by 1.
+
+![shrimp on a pink background](./glitch_shrimp.png)
 
 [julianeon-shrimp](https://glitch.com/~julianeon-shrimp)
 
 
 ## hot take machine
+
+In this 'magic 8 ball' style app, you ask a question and receive a 'yes' or 'no' answer.
 
 ![fortune teller 8 ball image](./glitch_hot_take.png)
 
@@ -68,11 +74,15 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## text scroll
 
+In this app, text scrolls sideways across the screen.
+
 ![text scrolling sideways across the page](./glitch_text_scroll.png)
 
 [julianeon-text-scroll](https://glitch.com/~julianeon-text-scroll)
 
 ## invisible
+
+In this app, you mouse the app over the upper half of the image, and hidden text appears.
 
 ![text upper half, image lower half](./glitch_invisible_text.png)
 
@@ -80,11 +90,15 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## vision test
 
+In this app, you enter text to magnify, and it appears in a very large text size on the screen.
+
 ![vision test large text](./glitch_vision.png)
 
 [julianeon-visiontext](https://glitch.com/~julianeon-visiontest)
 
 ## chatter
+
+In this app, a party chat is simulated. 
 
 ![glitch-chatter](./glitch_chatter.png)
 
@@ -92,11 +106,15 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## stacker
 
+In this app, text is stacked across a boldly colored screen.
+
 ![stacked black triangular text on red background](./glitch_stacker.png)
 
 [julianeon-stacker](https://glitch.com/~julianeon-stacker)
 
 ## svger
+
+In this app, images are combined with text you can click through to the end.
 
 ![svg based website](./glitch_svger.png)
 
@@ -104,17 +122,23 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## red no
 
+In this app, a red letter 'no' flashes across the screen, with more punctuation and urgency as time goes on.
+
 ![glitch-redno](./glitch_redno.png)
 
 [julianeon-redno](https://glitch.com/~julianeon-redno)
 
 ## team cards
 
+In this app, a professional looking 'teams' section is simulated, in a small file.
+
 ![glitch-team-cards](./glitch_team_cards.png)
 
 [julianeon-team-cards](https://glitch.com/~julianeon-team-cards)
 
 ## redacted
+
+In this app, you can click on text to 'redact' it, or replace it with a black bar.
 
 ![glitch-redacted](./glitch_redacted.png)
 
