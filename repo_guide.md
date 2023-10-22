@@ -30,7 +30,9 @@ The example shown below is [julianeon-memory](https://glitch.com/~julianeon-memo
 
 ![glitch memory game](./glitch_julianeon_memory.png)
 
-For several of my other JS apps (not on Glitch), I wrote up explanations of the code and what it does on [javascriptpage.com](https://javascriptpage.com). For easier access, I'm listing repos with demos and writeups (when available) below.
+For several of my other JS apps (not on Glitch), I wrote up explanations of the code and what it does on [javascriptpage.com](https://javascriptpage.com). 
+
+For easier access, I'm listing repos with demos and writeups (when available) below.
 
 ![psychedelic eye art](./psychedelic_eyes.png)
 
@@ -44,8 +46,8 @@ blog-basic-react: [demo](https://blog-basic.s3.amazonaws.com/index.html), [code]
 
 react-state-router: [demo](http://reactstate.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/react-state-router), [writeup](https://javascriptpage.com/react-state-routing).
 
-react-landing-page-learn-react: [demo](http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/React-Landing-Page-Learn-React).
-
 javascript-get-request: [demo](https://javascriptpage.com/react-state-routing), [code](https://gist.github.com/julianeon/d4c9fe06ad991ad81dd071edb98bb1f9), [writeup](https://javascriptpage.com/javascript-get-request-example).
+
+react-landing-page-learn-react: [demo](http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
 
