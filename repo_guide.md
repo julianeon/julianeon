@@ -24,7 +24,7 @@ Here's an example made with Svelte: [hometoolzone.com](https://www.hometoolzone.
 
 I have completed more advanced apps with authentication and access to various AWS services such as AppSync, but those aren't here since they can't be run locally as easily as an app without AWS credentials. I can share that code upon request.
 
-You can see demos of about 30 of my JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon). Be aware that they do take a minute or two to load. Once they do, you'll see the demo and a link to the code in the tab.
+You can see demos of 17 of my JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon). Be aware that they take 1-3 minutes to load. Once they do, you'll see the demo and a link to the code in the tab.
 
 The example shown below is [julianeon-memory](https://glitch.com/~julianeon-memory).
 
