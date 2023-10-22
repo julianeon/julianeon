@@ -2,7 +2,7 @@
 
 This is a guide to my repositories on Glitch, linked to from my [repo page](./repo_guide.md). 
 
-I have 16 JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon). 
+I have 16 JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon).  I created each of them from scratch; none are copies, or forks, of other code.
 
 Each app, when you click on it, will take 1-3 minutes to load. 
 
