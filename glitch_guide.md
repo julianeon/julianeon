@@ -146,7 +146,7 @@ In this app, a professional looking 'teams' section is simulated, showcasing the
 
 ## redacted
 
-In this app, you can click on individual words to 'redact' them, or replace them inline with a black bar.
+In this app, you can click on individual words to 'redact' them, or replace them inline with black squares.
 
 ![glitch-redacted](./glitch_redacted.png)
 
