@@ -6,7 +6,7 @@ Most of my repos are web apps made with JavaScript. Most of the recent ones are 
 
 To see a recent example of a React template I customized for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
-This is the live (demo) version of that repo, which I'm hosting on AWS:
+This is the live (demo) version of that repo, which I'm hosting on s3 on AWS:
 
 http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/
 
@@ -30,7 +30,7 @@ The example shown below is [julianeon-memory](https://glitch.com/~julianeon-memo
 
 ![glitch memory game](./glitch_julianeon_memory.png)
 
-For other apps (excluding the 16 on Glitch), I wrote up explanations of the code and what it does on [javascriptpage.com](https://javascriptpage.com). For easier access, I'm listing several repos with demos and writeups (when available) below.
+For several of my other JS apps (not on Glitch), I wrote up explanations of the code and what it does on [javascriptpage.com](https://javascriptpage.com). For easier access, I'm listing repos with demos and writeups (when available) below.
 
 ![psychedelic eye art](./psychedelic_eyes.png)
 
