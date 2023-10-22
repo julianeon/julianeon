@@ -21,7 +21,7 @@ In this app, you select the color of the ball and enter a number for the size in
 
 ![glitch ball game screenshot](./glitch_bouncing_balls.png)
 
-[julianeon-memory glitch link](https://glitch.com/~julianeon-bouncing-balls)
+[julianeon-bouncing-balls glitch link](https://glitch.com/~julianeon-bouncing-balls)
 
 # memory game
 
