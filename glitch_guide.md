@@ -15,7 +15,7 @@ On each app's page, the demo will be shown in a window at the top while the code
 
 The apps are linked below, with descriptions and screenshots taken after loading.
 
-# bouncing balls 
+## bouncing balls 
 
 In this app, you select the color of the ball and enter a number for the size in pixels of the ball (I suggest 100). It will then bounce onto the screen, using that size and color.
 
@@ -23,7 +23,7 @@ In this app, you select the color of the ball and enter a number for the size in
 
 [julianeon-bouncing-balls](https://glitch.com/~julianeon-bouncing-balls)
 
-# circles
+## circles
 
 In this app, a circle within a circle appears on the screen, and it flashes a different colored circle within a few seconds, alternating between the circle pairs
 
@@ -31,7 +31,7 @@ In this app, a circle within a circle appears on the screen, and it flashes a di
 
 [julianeon-circles](https://glitch.com/~julianeon-circles)
 
-# memory game
+## memory game
 
 In this game, you can click on squares to uncover names briefly, as in the card game of memory. When you click the same name on different squares consecutively, the word pair stays uncovered. When you uncover all the names, you win.
 
@@ -39,4 +39,57 @@ In this game, you can click on squares to uncover names briefly, as in the card 
 
 [julianeon-memory](https://glitch.com/~julianeon-memory)
 
+## whale smallify
 
+In this app, you click on the whale, and it decreases in size, second by second, until it disappears.
+
+[julianeon-whale-smallify](https://glitch.com/~julianeon-whale-smallify)
+
+## striper
+
+[julianeon-striper](https://glitch.com/~julianeon-striper)
+
+## shrimp
+
+[julianeon-shrimp](https://glitch.com/~julianeon-shrimp)
+
+
+## hot take machine
+
+[julianeon-hot-take-machine](https://glitch.com/~julianeon-hot-take-machine)
+
+## text scroll
+
+[julianeon-text-scroll](https://glitch.com/~julianeon-text-scroll)
+
+## invisible
+
+[julianeon-invisible](https://glitch.com/~julianeon-invisible)
+
+## vision test
+
+[julianeon-visiontext](https://glitch.com/~julianeon-visiontest)
+
+## chatter
+
+[julianeon-chatter](https://glitch.com/~julianeon-chatter)
+
+## stacker
+
+[julianeon-stacker](https://glitch.com/~julianeon-stacker)
+
+## svger
+
+[julianeon-svger](https://glitch.com/~julianeon-svger)
+
+## red no
+
+[julianeon-redno](https://glitch.com/~julianeon-redno)
+
+## team cards
+
+[julianeon-team-cards](https://glitch.com/~julianeon-team-cards)
+
+## redacted
+
+[julianeon-redacted](https://glitch.com/~julianeon-redacted)
