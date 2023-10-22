@@ -25,7 +25,9 @@ In this app, you select the color of the ball and enter a number for the size in
 
 ## circles
 
-In this app, a circle within a circle appears on the screen, and it flashes a different colored circle within a few seconds, alternating between these two circle pairs.
+In this app, a circle within a circle appears on the screen. After a few seconds, a differently colored circle pair replaces it.
+
+The app then alternates between showing these two circle pairs.
 
 ![glitch circle screenshot](./glitch_circles.png)
 
@@ -61,7 +63,7 @@ In this app, stripes of different text cris-cross the screen, with text in the c
 
 ## shrimp
 
-In this app, each time you click on the button, the shrimp rotates a random amount, and the click count increases by 1.
+In this app, each time you click on the button, the shrimp rotates a random amount, and the click count increases by one.
 
 ![shrimp on a pink background](./glitch_shrimp.png)
 
