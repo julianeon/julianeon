@@ -21,7 +21,7 @@ In this app, you select the color of the ball and enter a number for the size in
 
 ![glitch ball game screenshot](./glitch_bouncing_balls.png)
 
-[julianeon-bouncing-balls glitch link](https://glitch.com/~julianeon-bouncing-balls)
+[julianeon-bouncing-balls](https://glitch.com/~julianeon-bouncing-balls)
 
 # circles
 
@@ -37,6 +37,6 @@ In this game, you can click on squares to uncover names briefly, as in the card 
 
 ![glitch memory game screenshot](./glitch_memory.png)
 
-[julianeon-memory glitch link](https://glitch.com/~julianeon-memory)
+[julianeon-memory](https://glitch.com/~julianeon-memory)
 
 
