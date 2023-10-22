@@ -26,7 +26,7 @@ I have completed more advanced apps with authentication and access to various AW
 
 You can see demos of about 30 of my JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon).
 
-For some apps, I wrote up explanations of the code and what it does on [JavaScriptPage](https://javascriptpage.com). For easier access, I'm listing the repos with demos and writeups (when available) below.
+For some apps, I wrote up explanations of the code and what it does on [javascriptpage.com](https://javascriptpage.com). For easier access, I'm listing the repos with demos and writeups (when available) below.
 
 ![psychedelic eye art](./psychedelic_eyes.png)
 
