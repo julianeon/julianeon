@@ -74,7 +74,7 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## invisible
 
-![text upper half, image lower half](./glitch_invisible.png)
+![text upper half, image lower half](./glitch_invisible_text.png)
 
 [julianeon-invisible](https://glitch.com/~julianeon-invisible)
 
