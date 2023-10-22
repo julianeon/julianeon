@@ -13,7 +13,7 @@ On each app's page, the demo will be shown in a window at the top while the code
 ![glitch instructions](./glitch_instructions.png)
 
 
-The apps are linked below, with descriptions and screenshots taken after loading.
+The apps are shown below in the same order they appear in on my Glitch profile page, with descriptions and screenshots taken after loading.
 
 ## bouncing balls 
 
@@ -41,55 +41,84 @@ In this game, you can click on squares to uncover names briefly, as in the card 
 
 ## whale smallify
 
+![glitch-whale-smallify](./glitch_whale_smallify.png)
+
 In this app, you click on the whale, and it decreases in size, second by second, until it disappears.
 
 [julianeon-whale-smallify](https://glitch.com/~julianeon-whale-smallify)
 
 ## striper
 
+![stripes on a page](./glitch_striper.png)
+
 [julianeon-striper](https://glitch.com/~julianeon-striper)
 
 ## shrimp
+
+![whale on a background](./glitch_shrimp.png)
 
 [julianeon-shrimp](https://glitch.com/~julianeon-shrimp)
 
 
 ## hot take machine
 
+![fortune teller 8 ball image](./glitch_hot_take.png)
+
 [julianeon-hot-take-machine](https://glitch.com/~julianeon-hot-take-machine)
 
 ## text scroll
+
+![text scrolling sideways across the page](./glitch_text_scroll.png)
 
 [julianeon-text-scroll](https://glitch.com/~julianeon-text-scroll)
 
 ## invisible
 
+
+![text upper half, image lower half](./glitch_invisible.png)
+
 [julianeon-invisible](https://glitch.com/~julianeon-invisible)
 
 ## vision test
+
+![vision test large text](./glitch_vision.png)
 
 [julianeon-visiontext](https://glitch.com/~julianeon-visiontest)
 
 ## chatter
 
+![glitch-chatter](./glitch_chatter.png)
+
 [julianeon-chatter](https://glitch.com/~julianeon-chatter)
 
 ## stacker
+
+![stacked black triangular text on red background](./glitch_stacker.png)
 
 [julianeon-stacker](https://glitch.com/~julianeon-stacker)
 
 ## svger
 
+![svg based website](./glitch_svger.png)
+
 [julianeon-svger](https://glitch.com/~julianeon-svger)
 
 ## red no
+
+![glitch-redno](./glitch_redno.png)
 
 [julianeon-redno](https://glitch.com/~julianeon-redno)
 
 ## team cards
 
+![glitch-team-cards](./glitch_team_cards.png)
+
 [julianeon-team-cards](https://glitch.com/~julianeon-team-cards)
 
 ## redacted
 
+![glitch-redacted](./glitch_redacted.png)
+
 [julianeon-redacted](https://glitch.com/~julianeon-redacted)
+
+
