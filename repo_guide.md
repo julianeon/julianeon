@@ -32,7 +32,7 @@ The example shown below is [julianeon-memory](https://glitch.com/~julianeon-memo
 
 For several of my other JS apps (not on Glitch), I wrote up explanations of the code and what it does on [javascriptpage.com](https://javascriptpage.com). 
 
-For easier access, I'm listing repos with demos and writeups (when available) below.
+For easier access, I'm listing repos with demos and JavaScriptPage writeups (when available) below.
 
 ![psychedelic eye art](./psychedelic_eyes.png)
 
