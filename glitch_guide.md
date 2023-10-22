@@ -100,7 +100,7 @@ In this app, you enter text to magnify, and it appears in a very large text size
 
 In this app, a party chat is simulated. 
 
-![glitch-chatter](./glitch_chatter.png)
+![simulated part chat](./glitch_chat.png)
 
 [julianeon-chatter](https://glitch.com/~julianeon-chatter)
 
