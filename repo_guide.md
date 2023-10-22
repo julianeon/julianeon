@@ -10,7 +10,7 @@ This is the live (demo) version of that repo, which I'm hosting on AWS:
 
 http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/
 
-Many of my repos are one-shot apps used to display something or do something fun, created over 1-3 days.
+Many of my repos are one-shot apps used to display a visual or demonstrate a concept, created over 1-3 days.
 
 ![view of clicker app](./click_to_disappear.png)
 
