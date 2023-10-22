@@ -25,7 +25,7 @@ In this app, you select the color of the ball and enter a number for the size in
 
 ## circles
 
-In this app, a circle within a circle appears on the screen, and it flashes a different colored circle within a few seconds, alternating between two circle pairs.
+In this app, a circle within a circle appears on the screen, and it flashes a different colored circle within a few seconds, alternating between these two circle pairs.
 
 ![glitch circle screenshot](./glitch_circles.png)
 
@@ -33,7 +33,7 @@ In this app, a circle within a circle appears on the screen, and it flashes a di
 
 ## memory game
 
-In this game, you can click on squares to uncover names briefly, as in the card game of memory. 
+In this app, you can click on squares to uncover names briefly, as in the card game of memory. 
 
 When you click the same name on different squares consecutively, the word pair stays uncovered. 
 
@@ -70,7 +70,7 @@ In this app, each time you click on the button, the shrimp rotates a random amou
 
 ## hot take machine
 
-In this 'magic 8 ball' style app, you ask a question and receive a 'yes' or 'no' answer.
+In this 'magic 8 ball' app, you ask a question and receive a 'yes' or 'no' answer.
 
 ![fortune teller 8 ball image](./glitch_hot_take.png)
 
