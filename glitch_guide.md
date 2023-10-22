@@ -94,9 +94,9 @@ In this app, you mouse the app over the upper half of the image, and hidden text
 
 ## vision test
 
-In this app, you enter text to magnify, and it appears in a very large text size on the screen.
+In this app, you enter text to magnify, and it appears in a huge font size.
 
-![vision test large text](./glitch_vision.png)
+![vision test large text](./glitch_vision_test.png)
 
 [julianeon-visiontext](https://glitch.com/~julianeon-visiontest)
 
