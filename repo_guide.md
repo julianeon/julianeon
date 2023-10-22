@@ -34,5 +34,5 @@ I've also written up explanations of the code and what the app does on JavaScrip
 
 ![psychedelic eye art](./psychedelic_eyes.png)
 
-psychedelic-eye: [demo](http://psychedlic-eye.s3-website-us-east-1.amazonaws.com), [code](https://github.com/julianeon/psychedlic-eye), [writeup](https://javascriptpage.com/react-psychedelic-eye-art) (best viewed on desktop or on mobile if you turn your phone sideways).
+psychedelic-eye: [demo](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com), [code](https://github.com/julianeon/psychedlic-eye), [writeup](https://javascriptpage.com/react-psychedelic-eye-art) (best viewed on desktop or on mobile if you turn your phone sideways).
 
