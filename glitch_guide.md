@@ -55,7 +55,7 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## striper
 
-In this app, stripes of different text cris-cross the screen, with text in the center.
+In this app, stripes of different colors crisscross the screen, with text in the center.
 
 ![stripes on a page](./glitch_striper.png)
 
