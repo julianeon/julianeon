@@ -11,7 +11,7 @@ I recommend all these books.
 
 I'm a big fan of Philip K. Dick and his books - Man In The High Castle and Ubik, especially.
 
-A close second would be The Best of Greg Egan. Also liked Schild's Ladder.
+A close second would be The Best of Greg Egan (short stories). I also liked his novel Schild's Ladder.
 
 I like Neal Stephenson too: Snow Crash, Cryptonomicon.
 
@@ -35,7 +35,7 @@ Tim Wu's The Attention Merchants is terrific too, a global history of technology
 
 The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
 
-I learned a lot from Global Capitalism by Freidan. It pairs well with The Penguin History of the World.
+I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World.
 
 The Chosen by Karabel is incredible, a history of American university admissions.
 
@@ -45,4 +45,4 @@ Among business biographies, my favorite is Ray Kroc's Grinding It Out.
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
-If you like Unix, I really enjoyed Kernighan's Unix: A History.
+If you like Unix, I recommend Kernighan's Unix: A History.
