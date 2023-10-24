@@ -11,7 +11,9 @@ You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
 As a consultant, I used React a lot with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, and Lambda. These days I use Svelte more, as I [explain](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) in this article on my JS tutorial site, javascriptpage.com.
 
-Languages I've used: JavaScript (most of the repos here), Python, Ruby, Go, Lisp, Perl, Rust, [Bash](https://github.com/julianeon/useful-bash-scripts). 
+Languages I've used: [JavaScript](repo_guide.md), Python, Ruby, Go, Lisp, Perl, Rust, [Bash](https://github.com/julianeon/useful-bash-scripts). 
+
+At the moment almost all my repos are JS, but over time I'll fill in the other languages too.
 
 I'm proficient with the command line and Linux (Linux Essentials certification). User of [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
 
