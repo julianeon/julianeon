@@ -2,7 +2,7 @@
 
 This is a guide to my repositories on GitHub, linked to from my [profile](./README.md). 
 
-Most of my repos are web apps made with JavaScript. Most of the recent ones are React apps, though I could have just as easily used Svelte or Next.js. 
+Most of my repos are web apps made with JavaScript. Most of the recent ones are React apps, though I could have just as easily used Svelte or Next.js. If you'd like to read my writing about JavaScript, see [JavaScriptPage](https://javascriptpage.com).
 
 To see a recent example of a React template I customized for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
