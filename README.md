@@ -1,6 +1,8 @@
 
 ## About Me
 
+![worplaces: pagerduty, ripple, apollographql](workplaces.png)
+
 I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a software consultant and product support aficionado living in San Francisco, California. You can read my thoughts on [product support](product_support.md).
@@ -26,12 +28,6 @@ I like coding, running [(former member)](https://goldengaterunningclub.org/) and
 I also like to hunt for good repos on here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
-
-_[Image](https://www.britannica.com/technology/transistor/Innovation-at-Bell-Labs) of the first transistor, made in 1947, ["the single greatest discovery in the last 100 years."](https://www.extremetech.com/extreme/175004-the-genesis-of-the-transistor-the-single-greatest-discovery-in-the-last-100-years)_
-
-![the first transistor](transistor.png)
-
-
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
