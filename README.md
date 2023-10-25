@@ -15,7 +15,7 @@ As a consultant, I used React a lot with AWS, especially AWS Amplify and its ass
 
 Languages I've used: [JavaScript](repo_guide.md), [Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), Go, Lisp, Perl, [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts). 
 
-At the moment almost all my repos are in JS, but I'll more code examples of other languages over time.
+At the moment almost all my repos are in JS, but I'll add code examples of other languages over time.
 
 I'm proficient with the command line and Linux (I have the [Linux Essentials certification](https://www.lpi.org/our-certifications/exam-010-objectives)). User of [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
 
