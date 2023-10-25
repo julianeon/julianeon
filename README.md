@@ -11,8 +11,7 @@ I worked at PagerDuty, Ripple and Apollo GraphQL, helping users with open source
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
-The repos heres reflect the fact that, as a consultant, I usually used React with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, and Lambda. Today I use Svelte more, as I explain [here](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) on my [JavaScriptPage](https://javascriptpage.com) site (made in Svelte).
-
+The repos heres reflect the fact that, as a consultant, I usually used React with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, and Lambda. Today I use Svelte more, as I explain [here](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) on my [JavaScriptPage](https://javascriptpage.com) site. 
 Languages I've used: [JavaScript](repo_guide.md), [Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), Go, Lisp, Perl, [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts). 
 
 At the moment almost all my repos are in JS, but I'll add code examples of other languages over time.
