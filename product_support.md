@@ -43,7 +43,7 @@ To see great customer service in action, see Steve Jobs turning a tense moment i
 
 [![steve jobs speaking on customer experience](customer_experience.png)](https://www.youtube.com/watch?v=r2O5qKZlI50)
 
-Finally, here's Kat Gaines, a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
+Finally, here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
 
 [![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
 
