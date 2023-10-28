@@ -15,7 +15,7 @@ A close second would be The Best of Greg Egan (short stories). I also liked his 
 
 I like Neal Stephenson too: Snow Crash, Cryptonomicon.
 
-Two books that I loved that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
+Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
 
 Greatly enjoyed LOTR and Dune. As a kid, I liked L'Engle's A Wrinkle in Time.
 
