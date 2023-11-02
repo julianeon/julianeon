@@ -23,7 +23,7 @@ I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://
 
 I like coding, [running](https://goldengaterunningclub.org/) (former member) and [books](books.md).
 
-I also like to hunt for good repos on here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
+I also like to hunt for good repos on here and on GitLab, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
