@@ -1,8 +1,16 @@
 ## Repo Guide
 
+### Introduction
+
 This is a guide to my repositories on GitHub, linked to from my [profile](./README.md). 
 
-Most of my repos are web apps made with JavaScript. Most of the recent ones are React apps, though I could have just as easily used Svelte or Next.js. If you'd like to read my writing about JavaScript, see [JavaScriptPage](https://javascriptpage.com).
+Most of my repos are web apps made with JavaScript. For other languages, I either have one repo here with various scripts, or a demo program.
+
+[Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [TypeScript](https://github.com/julianeon/userform), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts).
+
+### JavaScript
+
+Most of my JavaScript apps are React apps. If you'd like to read my writing about JavaScript, see [JavaScriptPage](https://javascriptpage.com).
 
 To see a recent example of a React template I customized for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
@@ -23,6 +31,8 @@ I host almost all my apps, once complete, on AWS.
 Here's an example made with Svelte: [hometoolzone.com](https://www.hometoolzone.com/)
 
 I have completed more advanced apps with authentication and access to various AWS services such as AppSync, but those aren't here since they can't be run locally as easily as an app without AWS credentials. I can share that code upon request.
+
+### Demos
 
 You can see demos of 16 of my JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon). Be aware that they take 1-3 minutes to load. Once they do, you'll see the demo and a link to the code towards the bottom of the page.
 
