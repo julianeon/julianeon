@@ -6,7 +6,9 @@ This is a guide to my repositories on GitHub, linked to from my [profile](./READ
 
 Most of my repos are web apps made with JavaScript. For other languages, I either have one repo here with various scripts, or a demo program.
 
-[Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [TypeScript](https://github.com/julianeon/userform), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts).
+[Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [TypeScript](https://github.com/julianeon/userform), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts)
+
+The repos heres reflect the fact that, as a consultant, I mostly used React with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, API Gateway and Lambda.
 
 ### JavaScript
 
