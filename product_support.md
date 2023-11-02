@@ -17,9 +17,9 @@ In short, my job in support goes beyond fixing things. It's about being a friend
 
 ## Support Protocols
 
-At one level, support is about doing the work of answering customer questions. At another level, though, it's about helping the company serve the customer better.
+At one level, support is about doing the work of answering customer questions. At another level, it's about helping the company to serve the customer better.
 
-At a minimum, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
+To do both, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
 
 The danger of a system like that, especially if it's handling a lot of requests, is that the customer can become a number, a statistic in the aggregate.
 
