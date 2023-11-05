@@ -15,7 +15,7 @@ You can see my [technical writing](https://javascriptpage.com/react-svelte-pitch
 
 Languages I've used: [JavaScript](repo_guide.md), [Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [TypeScript](https://github.com/julianeon/userform), Go, Perl, [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts). 
 
-I'm proficient with the command line and Linux ([Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified). User of [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
+I'm proficient with the command line and certified in ([Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives). User of [vim & Emacs](https://medium.com/@julianmartinez/vim-vs-emacs-how-to-think-about-them-and-choose-your-editor-403456467456).
 
 ## Interests 
 
