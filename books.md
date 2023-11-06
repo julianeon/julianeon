@@ -41,7 +41,7 @@ The Chosen by Karabel is incredible, a history of American university admissions
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
-Among business biographies, my favorite is Ray Kroc's Grinding It Out.
+Among business biographies, my favorite is Ray Kroc's Grinding It Out. Danny Meyer's Setting The Table is also excellent and relevant to Support.
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
