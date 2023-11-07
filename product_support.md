@@ -47,6 +47,8 @@ Finally, here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former c
 
 [![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
 
+I've posted that link, and other useful links about customer support, on my [LinkedIn](https://www.linkedin.com/in/julianeon/recent-activity/all/).
+
 ## The Next Level 
 
 To provide next level customer service, I believe the whole company has to be involved. 
