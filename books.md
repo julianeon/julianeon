@@ -29,13 +29,13 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce).
 
-For a history of tech, Fire In The Valley is outstanding.
+For a history of tech, Fire In The Valley, by Swaine & Freiberger, is outstanding.
 
 Tim Wu's The Attention Merchants is terrific too, a global history of technology.
 
 The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
 
-I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World.
+I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
 
 The Chosen by Karabel is incredible, a history of American university admissions.
 
