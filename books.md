@@ -27,7 +27,7 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 ### Nonfiction
 
-Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story, Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce).
+Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce).
 
 For a history of tech, Fire In The Valley is outstanding.
 
@@ -41,7 +41,7 @@ The Chosen by Karabel is incredible, a history of American university admissions
 
 The Making of the Atomic Bomb by Rhodes is great too.
 
-Among business biographies, my favorite is Ray Kroc's Grinding It Out. Danny Meyer's Setting The Table is also excellent and relevant to Support.
+Among business biographies, my favorite is Ray Kroc's Grinding It Out. Danny Meyer's Setting The Table is also excellent and very relevant to Support.
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
