@@ -43,7 +43,7 @@ To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate
 - Be asynchronous when it helps.
 - Practicality beats purity.
 
-That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical departmental practices, do it. 
+That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical department practices, do it. 
 
 This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I also strive to follow.
 
