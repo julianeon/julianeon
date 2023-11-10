@@ -33,7 +33,16 @@ It's important to make every customer feel appreciated by asking the right quest
 
 Language is important too: be polite, but don't overdo the stuffy language, because that sounds like a template. 
 
-To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/), for Support as a department, I endorse these guidelines:
+This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers that I also follow myself.
+
+![rules for customer service](customer_service_infographic.png)
+
+When I'm asked a technical question, I try to be specific and give steps to follow in my response, as shown by this model answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
+
+![technical support detailed answer](person-2-situation.jpg)
+
+
+For Support as a department, to borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/), I endorse these guidelines:
 
 - Write things down.
 - Make work visible and overcommunicate.
@@ -45,32 +54,26 @@ To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate
 
 That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical department practices, do it. 
 
-This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers that I also follow myself.
-
-![rules for customer service](customer_service_infographic.png)
-
-When I'm asked a technical question, I try to be specific and give steps to follow in my response, as shown by this model answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
-
-![technical support detailed answer](person-2-situation.jpg)
-
-To see great customer service in action, see Steve Jobs turning a tense moment into a primer on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
-
-[![steve jobs speaking on customer experience](customer_experience.png)](https://www.youtube.com/watch?v=r2O5qKZlI50)
-
-Finally, here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
+Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
 
 [![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
 
-I've posted that link, and other useful links about customer support, on my [LinkedIn](https://www.linkedin.com/in/julianeon/recent-activity/all/).
+Finally, to see great customer service in action, see Steve Jobs turning a tense moment into a primer on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
+
+[![steve jobs speaking on customer experience](customer_experience.png)](https://www.youtube.com/watch?v=r2O5qKZlI50)
+
+See my [LinkedIn](https://www.linkedin.com/in/julianeon/recent-activity/all/) for other links on Support.
 
 ## The Next Level 
 
 To provide next level customer service, I believe the whole company has to be involved. 
 
-Support receives the messages from users and answers them, but other parts of the company have to prioritize the feature requests and user experience overall. It's also good for Support to talk to the sales team, to know what the most important customers may not write down but are saying in meetings and calls. 
+Support receives the messages from users and answers them, but other parts of the company have to prioritize feature requests and the user experience overall, to change the product itself. 
+
 
 Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. If customers are saying it, I'll communicate it.
 
+It's also good for Support to talk to the sales team, to know what the most important customers may not write down but are saying in meetings and calls. When Support and Sales are both on the same page, it can send a powerful message.
 
 With the right leadership, the company can make updates or changes that transform the user experience, in ways that make the best things better and prevent the worst issues from repeating. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
 
