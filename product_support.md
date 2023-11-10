@@ -31,7 +31,17 @@ _Think of it like the barista who greets you by your name, starts whipping up yo
 
 It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something they can feel positive about by the end. 
 
-Language is important too: be polite, but don't overdo the stuffy language, because that can sound too much like a template. 
+Language is important too: be polite, but don't overdo the stuffy language, because that sounds like a template. 
+
+To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/), I endorse these guidelines:
+
+- Write things down.
+- Make work visible and overcommunicate.
+- Embrace collaboration.
+- Foster a culture that values documentation maintenance.
+- Communicate openly, honestly, and authentically.
+- Be asynchronous when it helps.
+- Practicality beats purity.
 
 This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I also strive to follow.
 
