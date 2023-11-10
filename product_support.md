@@ -49,7 +49,7 @@ This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-in
 
 ![rules for customer service](customer_service_infographic.png)
 
-I also try to be specific and give steps to follow in my response, as modeled by the technical solution shown in [Situation #2](https://quick-answers.kronis.dev/).
+I also try to be specific and give steps to follow in my response, as modeled by this solution from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
 
 ![technical support detailed answer](person-2-situation.jpg)
 
