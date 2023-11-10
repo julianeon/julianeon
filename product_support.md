@@ -33,7 +33,7 @@ It's important to make every customer feel appreciated by asking the right quest
 
 Language is important too: be polite, but don't overdo the stuffy language, because that sounds like a template. 
 
-To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/), I endorse these guidelines:
+To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/), for Support as a department, I endorse these guidelines:
 
 - Write things down.
 - Make work visible and overcommunicate.
@@ -45,11 +45,11 @@ To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate
 
 That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical department practices, do it. 
 
-This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for customer service that I also strive to follow.
+This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for talking to customers that I also strive to follow.
 
 ![rules for customer service](customer_service_infographic.png)
 
-I also try to be specific and give steps to follow in my response, as modeled by this solution from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
+When I'm asked a technical question, I try to be specific and give steps to follow in my response, as modeled by this excellent answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
 
 ![technical support detailed answer](person-2-situation.jpg)
 
