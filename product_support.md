@@ -75,7 +75,7 @@ Whenever I notice patterns or repeated issues, I make sure to let the Product te
 
 It's also good for Support to talk to the sales team, to know what the most important customers may not write down but are saying in meetings and calls. When Support and Sales are on the same page, it helps everyone.
 
-With the right leadership, the company can make updates or changes that transform the user experience, in ways that make the best things better and prevent the worst issues from repeating. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
+With the right leadership, the company can make changes that transform the user experience, in ways that make the best things better and prevent the worst issues from repeating. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
 
 At the end of the day, we're all on the same team. Our job is to deliver an exceptional experience to customers. 
 
