@@ -45,11 +45,11 @@ To borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate
 
 That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical department practices, do it. 
 
-This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for talking to customers that I also strive to follow.
+This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers that I also follow myself.
 
 ![rules for customer service](customer_service_infographic.png)
 
-When I'm asked a technical question, I try to be specific and give steps to follow in my response, as modeled by this excellent answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
+When I'm asked a technical question, I try to be specific and give steps to follow in my response, as shown by this model answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
 
 ![technical support detailed answer](person-2-situation.jpg)
 
