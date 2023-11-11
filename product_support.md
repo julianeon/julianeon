@@ -27,7 +27,7 @@ _Here’s what Zendesk’s research illuminated: most companies hold a rather na
 
 _Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
 
-It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something they can feel positive about by the end. 
+It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making the resolution something they can feel positive about by the end. 
 
 Language is important too: be polite, but don't overdo the stuffy language, because that can sound like a copy-pasted template. 
 
@@ -39,14 +39,13 @@ When I'm asked a technical question, I try to be specific and give steps to foll
 
 ![technical support detailed answer](person-2-situation.jpg)
 
-
-Finally, to see great customer service in action, see Steve Jobs turning a tense moment into a primer on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
+Finally, to see great customer service in action, see Steve Jobs turning a tough question into a teachable moment on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
 
 [![steve jobs speaking on customer experience](customer_experience.png)](https://www.youtube.com/watch?v=r2O5qKZlI50)
 
 ## Support As A Department
 
-I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say form a good foundation for Support as a unit within the company.
+These rules form a good foundation for Support as a unit within the company (adapted from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/)).
 
 - Be accessible and available in every supported channel. Consider which channels should be supported.
 
@@ -63,7 +62,7 @@ I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-su
 - Consider visual communication (video, screenshots with arrows, etc.) when things are difficult to explain over plain text.
 
 
-On the topic of collaboration, I think [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) has good guidelines.
+On the topic of communication, I endorse these rules (adapted from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/)).
 
 - Write things down.
 - Make work visible and overcommunicate.
