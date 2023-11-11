@@ -43,7 +43,7 @@ On the topic of collaboration, I think [GitHub](https://github.blog/2023-10-04-h
 - Communicate openly, honestly, and authentically.
 - Be asynchronous when it helps.
 
-Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
+Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on how to run Support.
 
 [![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
 
@@ -53,9 +53,7 @@ At one level, support is about doing the work of answering customer questions. A
 
 To do both, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
 
-The danger of a system like that, especially if it's handling a lot of requests, is that the customer can become a number, a statistic in the aggregate.
-
-I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
+Even when the ticket volume is high, I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
 
 _Here’s what Zendesk’s research illuminated: most companies hold a rather narrow view of what personalization means, which is at odds with the 62 percent of consumers who think these businesses could be doing more. These customers don’t want to be lumped into some demographic bucket—they crave experiences in which they’re a segment of one, not thousands._
 
