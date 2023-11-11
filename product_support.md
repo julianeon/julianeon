@@ -43,7 +43,7 @@ On the topic of collaboration, I think [GitHub](https://github.blog/2023-10-04-h
 - Communicate openly, honestly, and authentically.
 - Be asynchronous when it helps.
 
-Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on how to run Support.
+Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on customer service teams.
 
 [![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
 
