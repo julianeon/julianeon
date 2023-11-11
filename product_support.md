@@ -29,7 +29,7 @@ _Think of it like the barista who greets you by your name, starts whipping up yo
 
 It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something they can feel positive about by the end. 
 
-Language is important too: be polite, but don't overdo the stuffy language, because that sounds like a template. 
+Language is important too: be polite, but don't overdo the stuffy language, because that can sound like a copy-pasted template. 
 
 This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers that I also follow myself.
 
@@ -46,7 +46,7 @@ Finally, to see great customer service in action, see Steve Jobs turning a tense
 
 ## Support As A Department
 
-I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say form a good foundation.
+I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say form a good foundation for Support as a unit within the company.
 
 - Be accessible and available in every supported channel. Consider which channels should be supported.
 
