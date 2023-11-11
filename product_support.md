@@ -17,7 +17,7 @@ In short, my job in support goes beyond fixing things. It's about being a friend
 
 ## Support As A Department
 
-I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say are a good foundation for Support as a foundation.
+I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say form a good foundation.
 
 - Be accessible and available in every supported channel. Consider what channels should be supported.
 
