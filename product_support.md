@@ -19,12 +19,13 @@ In short, my job in support goes beyond fixing things. It's about being a friend
 
 I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say form a good foundation.
 
-- Be accessible and available in every supported channel. Consider what channels should be supported.
+- Be accessible and available in every supported channel. Consider which channels should be supported.
 
 - Track which questions are frequently asked and dedicate a website section, or a knowledge base, to those answers.
 
 - Have periodic meetings to brainstorm about different responses, missed bugs, missing features or the difficulties in resolving issues.
 
+- Share the ideas from these meetings with other teams.
 
 - Makre sure the team has the knowledge and expertise to explain the technical know-how of the product and service.
 
@@ -33,7 +34,7 @@ I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-su
 - Consider visual communication (video, screenshots with arrows, etc.) when things are difficult to explain over plain text.
 
 
-On the collaboration & documentation side, I think [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) has good guidelines.
+On the topic of collaboration, I think [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) has good guidelines.
 
 - Write things down.
 - Make work visible and overcommunicate.
@@ -41,9 +42,6 @@ On the collaboration & documentation side, I think [GitHub](https://github.blog/
 - Foster a culture that values documentation maintenance.
 - Communicate openly, honestly, and authentically.
 - Be asynchronous when it helps.
-- Practicality beats purity.
-
-That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical department practices, do it. 
 
 Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
 
