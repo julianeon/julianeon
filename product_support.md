@@ -33,7 +33,7 @@ I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-su
 - Consider visual communication (video, screenshots with arrows, etc.) when things are difficult to explain over plain text.
 
 
-For team working remotely, I think [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) has good guidelines.
+On the collaboration & documentation side, I think [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) has good guidelines.
 
 - Write things down.
 - Make work visible and overcommunicate.
