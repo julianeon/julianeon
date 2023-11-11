@@ -28,10 +28,9 @@ I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-su
 
 - Makre sure the team has the knowledge and expertise to explain the technical know-how of the product and service.
 
-- Measure the performance of key customer support metrics to improve and optimize it.
+- Measure the performance of key customer support metrics.
 
-
-- Consider visual communication (diagrams, screenshots with arrows, etc.) when things are difficult to explain over plain text.
+- Consider visual communication (video, screenshots with arrows, etc.) when things are difficult to explain over plain text.
 
 
 For team working remotely, I think [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) has good guidelines.
