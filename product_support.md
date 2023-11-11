@@ -15,7 +15,42 @@ Being proactive is also important. This might mean creating guides or FAQs that 
 
 In short, my job in support goes beyond fixing things. It's about being a friendly, understanding helper who transforms the customer experience into a smooth and pleasant one.
 
-## Support Protocols
+## Support As A Department
+
+I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say are a good foundation for Support as a foundation.
+
+- Be accessible and available in every supported channel. Consider what channels should be supported.
+
+- Track which questions are frequently asked and dedicate a website section, or a knowledge base, to those answers.
+
+- Have periodic meetings to brainstorm about different responses, missed bugs, missing features or the difficulties in resolving issues.
+
+
+- Makre sure the team has the knowledge and expertise to explain the technical know-how of the product and service.
+
+- Measure the performance of key customer support metrics to improve and optimize it.
+
+
+- Consider visual communication (diagrams, screenshots with arrows, etc.) when things are difficult to explain over plain text.
+
+
+For team working remotely, I think [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) has good guidelines.
+
+- Write things down.
+- Make work visible and overcommunicate.
+- Embrace collaboration.
+- Foster a culture that values documentation maintenance.
+- Communicate openly, honestly, and authentically.
+- Be asynchronous when it helps.
+- Practicality beats purity.
+
+That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical department practices, do it. 
+
+Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
+
+[![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
+
+## Support Guidelines
 
 At one level, support is about doing the work of answering customer questions. At another level, it's about helping the company to serve the customer better.
 
@@ -41,22 +76,6 @@ When I'm asked a technical question, I try to be specific and give steps to foll
 
 ![technical support detailed answer](person-2-situation.jpg)
 
-
-For Support as a department, to borrow a page from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/), I endorse these guidelines:
-
-- Write things down.
-- Make work visible and overcommunicate.
-- Embrace collaboration.
-- Foster a culture that values documentation maintenance.
-- Communicate openly, honestly, and authentically.
-- Be asynchronous when it helps.
-- Practicality beats purity.
-
-That last one means that, if you have a way to help a customer and the need is great but it means making an exception to your typical department practices, do it. 
-
-Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on support teams.
-
-[![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
 
 Finally, to see great customer service in action, see Steve Jobs turning a tense moment into a primer on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
 
