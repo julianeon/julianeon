@@ -15,6 +15,35 @@ Being proactive is also important. This might mean creating guides or FAQs that 
 
 In short, my job in support goes beyond fixing things. It's about being a friendly, understanding helper who transforms the customer experience into a smooth and pleasant one.
 
+## Support Guidelines
+
+At one level, support is about doing the work of answering customer questions. At another level, it's about helping the company to serve the customer better.
+
+To do both, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
+
+Even when the ticket volume is high, I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
+
+_Here’s what Zendesk’s research illuminated: most companies hold a rather narrow view of what personalization means, which is at odds with the 62 percent of consumers who think these businesses could be doing more. These customers don’t want to be lumped into some demographic bucket—they crave experiences in which they’re a segment of one, not thousands._
+
+_Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
+
+It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something they can feel positive about by the end. 
+
+Language is important too: be polite, but don't overdo the stuffy language, because that sounds like a template. 
+
+This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers that I also follow myself.
+
+![rules for customer service](customer_service_infographic.png)
+
+When I'm asked a technical question, I try to be specific and give steps to follow in my response, as shown by this model answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
+
+![technical support detailed answer](person-2-situation.jpg)
+
+
+Finally, to see great customer service in action, see Steve Jobs turning a tense moment into a primer on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
+
+[![steve jobs speaking on customer experience](customer_experience.png)](https://www.youtube.com/watch?v=r2O5qKZlI50)
+
 ## Support As A Department
 
 I've adapted these rules from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/), which I would say form a good foundation.
@@ -46,35 +75,6 @@ On the topic of collaboration, I think [GitHub](https://github.blog/2023-10-04-h
 Here's [Kat Gaines](https://www.linkedin.com/in/katgaines/), a former colleague of mine from PagerDuty and a great support professional, giving smart advice on customer service teams.
 
 [![kat gaines from pagerduty on support teams](pd_gaines.png)](https://www.youtube.com/watch?v=f60GvrS-qY4)
-
-## Support Guidelines
-
-At one level, support is about doing the work of answering customer questions. At another level, it's about helping the company to serve the customer better.
-
-To do both, there should be a system in place to register all requests, and make sure they're all responded to in a timely fashion. For me, that system was usually Zendesk.
-
-Even when the ticket volume is high, I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
-
-_Here’s what Zendesk’s research illuminated: most companies hold a rather narrow view of what personalization means, which is at odds with the 62 percent of consumers who think these businesses could be doing more. These customers don’t want to be lumped into some demographic bucket—they crave experiences in which they’re a segment of one, not thousands._
-
-_Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
-
-It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making sure the resolution is something they can feel positive about by the end. 
-
-Language is important too: be polite, but don't overdo the stuffy language, because that sounds like a template. 
-
-This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers that I also follow myself.
-
-![rules for customer service](customer_service_infographic.png)
-
-When I'm asked a technical question, I try to be specific and give steps to follow in my response, as shown by this model answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
-
-![technical support detailed answer](person-2-situation.jpg)
-
-
-Finally, to see great customer service in action, see Steve Jobs turning a tense moment into a primer on the [customer experience](https://www.youtube.com/watch?v=r2O5qKZlI50).
-
-[![steve jobs speaking on customer experience](customer_experience.png)](https://www.youtube.com/watch?v=r2O5qKZlI50)
 
 See my [LinkedIn](https://www.linkedin.com/in/julianeon/recent-activity/all/) for other links on Support.
 
