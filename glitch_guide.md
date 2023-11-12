@@ -17,31 +17,32 @@ The apps are shown below in the same order they appear in on my Glitch profile p
 
 ## bouncing balls 
 
+![glitch ball game screenshot](./glitch_bouncing_balls.png)
+
 In this app, you select the color of the ball and enter a number for the size in pixels of the ball (I suggest 100). A ball will then bounce onto the screen, of that size and color.
 
-![glitch ball game screenshot](./glitch_bouncing_balls.png)
 
 [julianeon-bouncing-balls](https://glitch.com/~julianeon-bouncing-balls)
 
 ## circles
 
+![glitch circle screenshot](./glitch_circles.png)
+
 In this app, a circle within a circle appears on the screen. After a few seconds, a differently colored circle pair replaces it.
 
 The app then alternates between showing these two circle pairs.
 
-![glitch circle screenshot](./glitch_circles.png)
-
 [julianeon-circles](https://glitch.com/~julianeon-circles)
 
 ## memory game
+
+![glitch memory game screenshot](./glitch_memory.png)
 
 In this app, you can click on squares to uncover names briefly, as in the card game of memory. 
 
 When you click the same name on different squares consecutively, the word pair stays uncovered. 
 
 When you uncover all the names, you win.
-
-![glitch memory game screenshot](./glitch_memory.png)
 
 [julianeon-memory](https://glitch.com/~julianeon-memory)
 
@@ -55,100 +56,100 @@ In this app, you click on the whale, and it decreases in size, second by second,
 
 ## striper
 
-In this app, stripes of different colors crisscross the screen, with text in the center.
-
 ![stripes on a page](./glitch_striper.png)
+
+In this app, stripes of different colors crisscross the screen, with text in the center.
 
 [julianeon-striper](https://glitch.com/~julianeon-striper)
 
 ## shrimp
 
-In this app, each time you click on the button, the shrimp rotates a random amount, and the click count increases by one.
-
 ![shrimp on a pink background](./glitch_shrimp.png)
+
+In this app, each time you click on the button, the shrimp rotates a random amount, and the click count increases by one.
 
 [julianeon-shrimp](https://glitch.com/~julianeon-shrimp)
 
 
 ## hot take machine
 
-In this 'magic 8 ball' app, you ask a question and receive a 'yes' or 'no' answer.
-
 ![fortune teller 8 ball image](./glitch_hot_take.png)
+
+In this 'magic 8 ball' app, you ask a question and receive a 'yes' or 'no' answer.
 
 [julianeon-hot-take-machine](https://glitch.com/~julianeon-hot-take-machine)
 
 ## text scroll
 
-In this app, text scrolls sideways across the screen.
-
 ![text scrolling sideways across the page](./glitch_text_scroll.png)
+
+In this app, text scrolls sideways across the screen.
 
 [julianeon-text-scroll](https://glitch.com/~julianeon-text-scroll)
 
 ## invisible
 
-In this app, you mouse the app over the upper half of the image, and hidden text appears.
-
 ![text upper half, image lower half](./glitch_invisible_text.png)
+
+In this app, you mouse the app over the upper half of the image, and hidden text appears.
 
 [julianeon-invisible](https://glitch.com/~julianeon-invisible)
 
 ## vision test
 
-In this app, you enter text to magnify, and it appears in a huge font size.
-
 ![vision test large text](./glitch_vision_test.png)
+
+In this app, you enter text to magnify, and it appears in a huge font size.
 
 [julianeon-visiontext](https://glitch.com/~julianeon-visiontest)
 
 ## chatter
 
+![simulated part chat](./glitch_chat.png)
+
 In this app, a party chat is simulated. 
 
 Important: scroll down in the iframe after the app loads to find the red button. You must click this to advance the text.
-
-![simulated part chat](./glitch_chat.png)
 
 [julianeon-chatter](https://glitch.com/~julianeon-chatter)
 
 ## stacker
 
-In this app, text is stacked across a boldly colored screen.
-
 ![stacked black triangular text on red background](./glitch_stacker.png)
+
+In this app, text is stacked across a boldly colored screen.
 
 [julianeon-stacker](https://glitch.com/~julianeon-stacker)
 
 ## svger
 
-In this app, images (svg files) are combined with text, as in a slideshow, you can click through to the end.
-
 ![svg based website](./glitch_svger.png)
+
+In this app, images (svg files) are combined with text, as in a slideshow, you can click through to the end.
 
 [julianeon-svger](https://glitch.com/~julianeon-svger)
 
 ## red no
 
-In this app, a red letter 'no' flashes across the screen, with more punctuation and urgency over time.
-
 ![glitch-redno](./glitch_redno.png)
+
+In this app, a red letter 'no' flashes across the screen, with more punctuation and urgency over time.
 
 [julianeon-redno](https://glitch.com/~julianeon-redno)
 
 ## team cards
 
-In this app, a professional looking 'teams' section is simulated, showcasing the design and changed text when you click on an image.
-
 ![glitch-team-cards](./glitch_team_cards.png)
+
+In this app, a professional looking 'teams' section is simulated, showcasing the design and changed text when you click on an image.
 
 [julianeon-team-cards](https://glitch.com/~julianeon-team-cards)
 
 ## redacted
 
-In this app, you can click on individual words to 'redact' them, or replace them inline with black squares.
-
 ![glitch-redacted](./glitch_redacted.png)
+
+In this app, you can click on individual words to 'redact' them, or replace them inline with black squares.
 
 [julianeon-redacted](https://glitch.com/~julianeon-redacted)
 
