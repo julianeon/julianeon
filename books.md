@@ -27,7 +27,7 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 ### Nonfiction
 
-Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), We Are The Nerds (Lagorio-Chafkin).
+Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), We Are The Nerds by Lagorio-Chafkin (Reddit).
 
 For a history of tech, Fire In The Valley, by Swaine & Freiberger, is outstanding.
 
