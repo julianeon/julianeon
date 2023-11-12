@@ -10,6 +10,8 @@ By reading this guide, you can get a sense of what you'll see after it loads, an
 
 On each app's page, the demo will be shown in a window at the top while the code will be accessible through a link ("View Source") towards the bottom.
 
+Feel free to fork any of these and reuse the code under the MIT license.
+
 ![glitch instructions](./glitch_instructions.png)
 
 
@@ -19,7 +21,9 @@ The apps are shown below in the same order they appear in on my Glitch profile p
 
 ![glitch ball game screenshot](./glitch_bouncing_balls.png)
 
-In this app, you select the color of the ball and enter a number for the size in pixels of the ball (I suggest 100). A ball will then bounce onto the screen, of that size and color.
+In this app, you select the color of the ball and enter a number for the size in pixels of the ball (suggested value: 100). 
+
+A ball will then bounce onto the screen, of that size and color.
 
 
 [julianeon-bouncing-balls](https://glitch.com/~julianeon-bouncing-balls)
@@ -133,7 +137,7 @@ In this app, images (svg files) are combined with text, as in a slideshow, you c
 
 ![glitch-redno](./glitch_redno.png)
 
-In this app, a red letter 'no' flashes across the screen, with more punctuation and urgency over time.
+In this app, a red letter 'no' flashes across the screen, with more punctuation over time.
 
 [julianeon-redno](https://glitch.com/~julianeon-redno)
 
