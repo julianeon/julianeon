@@ -29,7 +29,7 @@ _Example: click on a box to make it disappear at [count.mindwiller.com](https://
 
 Repos with 'react' in the name were made with React, using hooks. 
 
-I host almost all my apps, once complete, on AWS.
+I host the apps that aren't made for local use on AWS.
 
 Here's an example made with Svelte: [hometoolzone.com](https://www.hometoolzone.com/)
 
