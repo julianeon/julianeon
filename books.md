@@ -25,19 +25,15 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 ### Nonfiction
 
-Startup/tech histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit), The Launch Pad by Stross (Y Combinator).
+Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit).
 
 For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding.
 
-Tim Wu's The Attention Merchants is terrific too, for a more sweeping history of technology.
-
 The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
 
-I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
+Tim Wu's The Attention Merchants is terrific too, as a broader history of technology.
 
-The Chosen by Karabel is incredible, a history of American university admissions.
-
-The Making of the Atomic Bomb by Rhodes is great too.
+On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
 
 Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's Setting The Table is also excellent and relevant to Support.
 
