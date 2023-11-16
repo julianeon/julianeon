@@ -36,7 +36,7 @@ Tim Wu's The Attention Merchants is terrific too, for a broader history of techn
 
 On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
 
-Among business biographies, my favorite is Ray Kroc's Grinding It Out. The Maverick & His Machine by Maney, about IBM and its founder Watson, will teachy you a lot about the birth of tech. Meyer's Setting The Table, about hospitality, is very different but has a lot to teach about Support. 
+Among business biographies, my favorite is Ray Kroc's Grinding It Out. The Maverick & His Machine by Maney, about IBM and its founder Watson, is a good tech centered one. Meyer's Setting The Table, about hospitality, is very different but has a lot to teach about Support. 
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
