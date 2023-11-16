@@ -27,15 +27,16 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit).
 
-For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding.
+For a history of venture capital, consider Nicholas' VC: A History and Stross' The Launch Pad, about Y Combintor.
 
-The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
+For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan and Hoddeson's Crystal Fire explains the earlier part of that, the history of the transistor and the start of the information age.
+
 
 Tim Wu's The Attention Merchants is terrific too, for a broader history of technology.
 
 On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
 
-Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's Setting The Table is also excellent and relevant to Support.
+Among business biographies, my favorite is Ray Kroc's Grinding It Out. The Maverick & His Machine by Maney, about IBM and its founder Watson, will teachy you a lot about the birth of tech. Meyer's Setting The Table, about hospitality, is very different but is also very relevant to Support. 
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
