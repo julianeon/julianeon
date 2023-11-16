@@ -31,7 +31,7 @@ For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstand
 
 The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
 
-Tim Wu's The Attention Merchants is terrific too, as a broader history of technology.
+Tim Wu's The Attention Merchants is terrific too, for a broader history of technology.
 
 On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
 
