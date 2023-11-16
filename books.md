@@ -9,11 +9,9 @@ I recommend all these books.
 
 ![slanted image of a dozen adjacent philip k dick book covers](pkd.jpg)
 
-I'm a big fan of Philip K. Dick and his books - Man In The High Castle and Ubik, especially.
+I'm a big fan of Philip K. Dick and his books - The Man In The High Castle and Ubik, especially.
 
 A close second would be The Best of Greg Egan (short stories). I also liked his novel Schild's Ladder.
-
-I like Neal Stephenson too: Snow Crash, Cryptonomicon.
 
 Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
 
@@ -27,11 +25,11 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of 
 
 ### Nonfiction
 
-Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit).
+Startup/tech histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit), The Launch Pad by Stross (Y Combinator).
 
-For a history of tech, Fire In The Valley, by Swaine & Freiberger, is outstanding.
+For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding.
 
-Tim Wu's The Attention Merchants is terrific too, a global history of technology.
+Tim Wu's The Attention Merchants is terrific too, for a more sweeping history of technology.
 
 The Maverick & His Machine by Maney, about IBM and its founder Watson, makes a good companion piece.
 
