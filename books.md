@@ -17,9 +17,7 @@ Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood 
 
 Greatly enjoyed LOTR, Dune, Neuromancer and Snow Crash. As a kid, I liked L'Engle's A Wrinkle in Time.
 
-For period fiction, Clarke's Jonathan Strange and Mr. Norrell.
-
-For contemporary fiction, Smith's White Teeth.
+For contemporary fiction, I'm a fan of Smith's White Teeth.
 
 On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of The Arabian Nights (1 of 3). 
 
