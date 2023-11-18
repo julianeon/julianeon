@@ -19,7 +19,7 @@ Greatly enjoyed LOTR, Dune, Neuromancer and Snow Crash. As a kid, I liked L'Engl
 
 For contemporary fiction, I'm a fan of Smith's White Teeth.
 
-On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Vol. 1 of The Arabian Nights (1 of 3). 
+On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's Inferno, Vol. 1 of The Arabian Nights (1 of 3). 
 
 ### Nonfiction
 
