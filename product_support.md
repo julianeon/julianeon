@@ -25,7 +25,7 @@ Even when the ticket volume is high, I agree with [Zendesk](https://cxtrends.zen
 
 It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making the resolution something they can feel positive about by the end. 
 
-_Here’s what Zendesk’s research illuminated: most companies hold a rather narrow view of what personalization means, which is at odds with the 62 percent of consumers who think these businesses could be doing more. These customers don’t want to be lumped into some demographic bucket—they crave experiences in which they’re a segment of one, not thousands._
+_Most companies hold a rather narrow view of what personalization means, which is at odds with the 62 percent of consumers who think these businesses could be doing more [according to Zendesk's research]. These customers don’t want to be lumped into some demographic bucket—they crave experiences in which they’re a segment of one, not thousands._
 
 _Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
 
