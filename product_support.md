@@ -9,7 +9,7 @@ My guiding principles are simple: be kind and solve problems thoroughly.
 
 Being kind means really listening to what customers are saying. It acknowledges that when things go wrong, it can be frustrating. It means reassuring the customer that we're here to help without losing our friendly tone (or temper). Whatever happens, it's important to be on their side. 
 
-Solving problems means giving the customer what they asked for: a real, viable, solution. A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other end, unnecessary detail.
+Solving problems means giving the customer what they asked for: a real, viable, solution. A good solution isn't just technically correct; it's also explained in a way that makes sense to the person using our product, without condescension or, at the other extreme, unnecessary detail.
 
 Being proactive is also important. This might mean creating guides or FAQs that customers can use to solve common issues on their own, following best practices (["building a knowledge base"](https://zapier.com/blog/build-knowledge-base-documentation/) from Zapier). It might also mean writing scripts to demonstrate how to do something ([gist.github.com](https://gist.github.com/julianeon?direction=desc&sort=created)).
 
