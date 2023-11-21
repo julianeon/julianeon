@@ -31,7 +31,7 @@ _Think of it like the barista who greets you by your name, starts whipping up yo
 
 Language is important too: be polite, but don't overdo the stuffy language, because that can sound like a copy-pasted template. 
 
-This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers I follow myself.
+This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communication that I follow myself.
 
 ![rules for customer service](customer_service_infographic.png)
 
