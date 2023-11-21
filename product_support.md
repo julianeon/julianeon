@@ -23,19 +23,19 @@ To do both, there should be a system in place to register all requests, and make
 
 Even when the ticket volume is high, I agree with [Zendesk](https://cxtrends.zendesk.com/trends/trend-3) that businesses should personalize support. 
 
+It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making the resolution something they can feel positive about by the end. 
+
 _Here’s what Zendesk’s research illuminated: most companies hold a rather narrow view of what personalization means, which is at odds with the 62 percent of consumers who think these businesses could be doing more. These customers don’t want to be lumped into some demographic bucket—they crave experiences in which they’re a segment of one, not thousands._
 
 _Think of it like the barista who greets you by your name, starts whipping up your normal order, and then asks a follow up question about something you talked about during your last visit._
 
-It's important to make every customer feel appreciated by asking the right questions, updating enough for the conversation to feel alive, and making the resolution something they can feel positive about by the end. 
-
 Language is important too: be polite, but don't overdo the stuffy language, because that can sound like a copy-pasted template. 
 
-This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers that I also follow myself.
+This [infographic](https://fieldedge.com/blog/guide-to-great-customer-service-infographic/) lays down good rules for communicating with customers I follow myself.
 
 ![rules for customer service](customer_service_infographic.png)
 
-When I'm asked a technical question, I try to be specific and give steps to follow in my response, as shown by this model answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
+When I'm asked a technical question, I try to be specific and give steps to follow in my response, as shown by this answer from kronis.dev in [Situation #2](https://quick-answers.kronis.dev/).
 
 ![technical support detailed answer](person-2-situation.jpg)
 
