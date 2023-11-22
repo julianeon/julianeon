@@ -23,7 +23,7 @@ On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's In
 
 ### Nonfiction
 
-Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs (Apple), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit).
+Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device (Apple/iPhone), Levy's Facebook: The Inside Story (Facebook), Levy's In The Plex (Google), Frier's No Filter (Instagram), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit).
 
 For a history of venture capital, consider Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
