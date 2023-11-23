@@ -49,7 +49,7 @@ For easier access, I'm linking repos with demos and JavaScriptPage writeups (whe
 
 ![psychedelic eye art](./psychedelic_eyes.png)
 
-psychedelic-eye: [demo](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com), [code](https://github.com/julianeon/psychedlic-eye), [writeup](https://javascriptpage.com/react-psychedelic-eye-art) (best viewed on desktop - turn your phone sideways on mobile).
+psychedelic-eye: [demo](http://psychedelic-eye.s3-website-us-east-1.amazonaws.com), [code](https://github.com/julianeon/psychedlic-eye), [writeup](https://javascriptpage.com/react-psychedelic-eye-art) (demo best viewed on desktop - turn your phone sideways on mobile).
 
 pitch-deck-react: [demo](http://pitch-deck-react.s3-website-us-east-1.amazonaws.com/), [code](https://github.com/julianeon/pitch-deck-react/), [writeup](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison).
 
