@@ -30,7 +30,7 @@ For a history of venture capital, consider Nicholas' VC: A History, Stross' The 
 For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan and Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age.
 
 
-Tim Wu's The Attention Merchants is terrific too, for a broad history of communications technology.
+Tim Wu's The Attention Merchants is a terrific history of communications technology.
 
 On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
 
