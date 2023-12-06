@@ -6,7 +6,7 @@ I recommend all these books.
 
 ### Nonfiction
 
-![apple team picture](apple_people.png)
+![apple team picture](apple_people.webp)
 
 Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google), Levy's Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X), Benioff's Behind The Cloud (Salesforce).
 
