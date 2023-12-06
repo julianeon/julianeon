@@ -8,7 +8,7 @@ I recommend all these books.
 
 ![paypal esquire picture](paypal_people.png)
 
-Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google), Levy's Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X).
+Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google), Levy's Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce).
 
 For a history of venture capital, consider Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
