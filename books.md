@@ -4,26 +4,11 @@ Here is a list of books I've read and enjoyed.
 
 I recommend all these books.
 
-### Fiction
-
-
-![slanted image of a dozen adjacent philip k dick book covers](pkd.jpg)
-
-I'm a big fan of Philip K. Dick and his books - The Man In The High Castle and Ubik, especially.
-
-A close second would be The Best of Greg Egan (short stories). I also liked his novel Schild's Ladder.
-
-Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
-
-Greatly enjoyed LOTR, Dune, Neuromancer and Snow Crash. As a kid, I liked L'Engle's A Wrinkle in Time.
-
-For contemporary fiction, I'm a fan of Smith's White Teeth.
-
-On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's Inferno, Vol. 1 of The Arabian Nights (1 of 3). 
-
 ### Nonfiction
 
-Startup histories: Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google), Levy's Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X), Soni's The Founders (PayPal).
+![paypal esquire picture](paypal_people.png)
+
+Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google), Levy's Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Southwick's Everyone Else Must Fail (Oracle), Benioff's Behind The Cloud (Salesforce), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X).
 
 For a history of venture capital, consider Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
@@ -39,3 +24,18 @@ Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's S
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
 If you like Unix, I recommend Kernighan's Unix: A History.
+
+### Fiction
+
+
+I'm a big fan of Philip K. Dick and his books - The Man In The High Castle and Ubik, especially.
+
+A close second would be The Best of Greg Egan (short stories). I also liked his novel Schild's Ladder.
+
+Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
+
+Greatly enjoyed LOTR, Dune, Neuromancer and Snow Crash. As a kid, I liked L'Engle's A Wrinkle in Time.
+
+For contemporary fiction, I'm a fan of Smith's White Teeth.
+
+On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's Inferno, Vol. 1 of The Arabian Nights (1 of 3). 
