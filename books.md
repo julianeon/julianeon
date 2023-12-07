@@ -12,7 +12,7 @@ Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (A
 
 For a history of venture capital, consider Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
-For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan and Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age. Petzold's Code is good too.
+For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan and Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age. Petzold's Code covers hardware & software.
 
 
 Tim Wu's The Attention Merchants is a terrific history of mass media and its associated technologies.
