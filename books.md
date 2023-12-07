@@ -6,13 +6,13 @@ I recommend all these books.
 
 ### Nonfiction
 
-![apple team picture](apple_team.webp)
+![history of technology](history_technology.png)
 
 Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google), Levy's Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X), Benioff's Behind The Cloud (Salesforce).
 
 For a history of venture capital, consider Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
-For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan and Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age.
+For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan and Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age. Petzold's Code is good too.
 
 
 Tim Wu's The Attention Merchants is a terrific history of mass media and its associated technologies.
