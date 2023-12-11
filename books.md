@@ -2,7 +2,7 @@
 
 Here is a list of books I've read and enjoyed.
 
-I recommend everything here.
+I recommend all the books here.
 
 ### Nonfiction
 
