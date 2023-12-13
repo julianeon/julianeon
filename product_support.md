@@ -47,7 +47,7 @@ Finally, to see great customer service in action, see Steve Jobs turning a tough
 
 These rules form a good foundation for Support as a unit within the company (adapted from [Apptivo](https://www.apptivo.com/blog/customer-support-importance-types-and-best-practices/)).
 
-- Be accessible and available in every supported channel. Consider which channels should be supported.
+- Be accessible and available in every supported channel. Consider carefully which channels should be supported.
 
 - Track which questions are frequently asked and dedicate a website section, or a knowledge base, to those answers.
 
@@ -55,7 +55,7 @@ These rules form a good foundation for Support as a unit within the company (ada
 
 - Share the ideas from these meetings with other teams.
 
-- Make sure the team has the knowledge and expertise to explain the technical know-how of the product and service.
+- Make sure the team has the knowledge and expertise to explain the technical aspects of your service.
 
 - Measure the performance of key customer support metrics.
 
@@ -65,7 +65,7 @@ These rules form a good foundation for Support as a unit within the company (ada
 On the topic of communication, I endorse these rules (adapted from [GitHub](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/)).
 
 - Write things down.
-- Make work visible and overcommunicate.
+- Make work visible; overcommunicate.
 - Embrace collaboration.
 - Foster a culture that values documentation maintenance.
 - Communicate openly, honestly, and authentically.
