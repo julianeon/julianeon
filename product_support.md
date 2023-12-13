@@ -55,7 +55,7 @@ These rules form a good foundation for Support as a unit within the company (ada
 
 - Share the ideas from these meetings with other teams.
 
-- Makre sure the team has the knowledge and expertise to explain the technical know-how of the product and service.
+- Make sure the team has the knowledge and expertise to explain the technical know-how of the product and service.
 
 - Measure the performance of key customer support metrics.
 
