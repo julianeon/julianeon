@@ -84,7 +84,7 @@ To provide next level customer service, I believe the whole company has to be in
 Support receives the messages from users and answers them, but other parts of the company have to prioritize feature requests and the user experience overall, to change the product itself. 
 
 
-Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and any other team member who is interested. If customers are saying it, I'll communicate it.
+Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and other team members who are interested. If customers are saying it, I'll communicate it.
 
 It's also good for Support to talk to the Sales team, to know what the most important customers may not write down but are saying in meetings and calls. When Support and Sales are on the same page, it helps everyone.
 
