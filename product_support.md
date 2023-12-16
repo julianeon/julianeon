@@ -90,7 +90,7 @@ It's also good for Support to talk to Sales, to know what customers are saying i
 
 With the right leadership, the company can make changes that transform the user experience, in ways that make the best things better and prevent the worst issues from repeating. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
 
-At the end of the day, we're all on the same team. Our job is to deliver an exceptional experience to customers. 
+At the end of the day, we're all on the same team. Our job is to deliver an exceptional customer experience. 
 
 By listening to our user's needs, acting on what we've learned, and continuing to improve every quarter, we can help the company reach its goals - by helping the people who pay us to help them.
 
