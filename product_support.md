@@ -86,7 +86,7 @@ Support receives the messages from users and answers them, but other parts of th
 
 Whenever I notice patterns or repeated issues, I make sure to let the Product team know, and other team members who are interested. If customers are saying it, I'll communicate it.
 
-It's also good for Support to talk to Sales, to know what the most important customers may not write down but are saying in meetings and calls. When Support and Sales are on the same page, it helps everyone.
+It's also good for Support to talk to Sales, to know what customers may not write down but are saying in meetings and calls. When Support and Sales are on the same page, it helps everyone.
 
 With the right leadership, the company can make changes that transform the user experience, in ways that make the best things better and prevent the worst issues from repeating. "Customer obsession is not just listening to customers... Customer obsession is also inventing on their behalf," as [Jeff Bezos](https://www.youtube.com/watch?v=uHvD0DVcKAw) once said.
 
