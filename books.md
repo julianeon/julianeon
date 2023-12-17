@@ -29,11 +29,11 @@ If you like Unix, I recommend Kernighan's Unix: A History.
 
 I'm a fan of Philip K. Dick, especially The Man In The High Castle and Ubik.
 
-A close second would be The Best of Greg Egan (short stories). I also liked his novel Schild's Ladder.
+A close second would be Greg Egan. Try The Best of Greg Egan (short stories) or his novel Schild's Ladder.
 
 Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series and Garfinkel's All Of An Instant.
 
-I also like the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
+I like the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
 
 For contemporary fiction, I nominate Smith's White Teeth.
 
