@@ -33,7 +33,7 @@ A close second would be The Best of Greg Egan (short stories). I also liked his 
 
 Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series and Garfinkel's All Of An Instant.
 
-I appreciate the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
+I also like the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
 
 For contemporary fiction, I liked Smith's White Teeth.
 
