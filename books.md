@@ -17,7 +17,7 @@ For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstand
 
 Tim Wu's The Attention Merchants is a terrific history of mass media and its associated technologies.
 
-On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It goes well with The Penguin History of the World by Roberts & Westad.
+On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It pairs well with The Penguin History of the World by Roberts & Westad.
 
 Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's Setting The Table has a lot to teach about Support. Maney's The Maverick & His Machine is a good history of early pre-computer IBM.
 
