@@ -27,13 +27,13 @@ If you like Unix, I recommend Kernighan's Unix: A History.
 
 ### Fiction
 
-I've read the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
-
-I'm a fan of Philip K. Dick and his books - The Man In The High Castle and Ubik, especially.
+I'm a fan of Philip K. Dick, especially The Man In The High Castle and Ubik.
 
 A close second would be The Best of Greg Egan (short stories). I also liked his novel Schild's Ladder.
 
-Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series & Garfinkel's All Of An Instant.
+Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series and Garfinkel's All Of An Instant.
+
+I appreciate the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
 
 For contemporary fiction, I liked Smith's White Teeth.
 
