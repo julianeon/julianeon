@@ -27,6 +27,8 @@ I also like to hunt for good repos on here and on GitLab, like this one on [comp
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
+https://github.com/julianeon/cronos
+
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
