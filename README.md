@@ -9,7 +9,7 @@ I'm a software consultant and product support aficionado living in San Francisco
 
 I worked at PagerDuty, Ripple, and Apollo GraphQL, helping users with technical questions, as described on [LinkedIn](https://www.linkedin.com/in/julianeon/). After that I worked at my consultancy, Excelsitor, on cryptocurrency projects.
 
-In terms of crypto, you can see my repos using the Graph protocol [here](https://github.com/julianeon/cronos) (subgraph for a Cronos token), [here](https://github.com/julianeon/cronos-graph) (front end to display Cronos data using that subgraph) and [here](https://github.com/julianeon/subgraph-sepolia-mkt) (front end for a new token I deployed on Ethereum's Sebolia testnet).
+In terms of crypto, you can see my repos using the Graph protocol [here](https://github.com/julianeon/cronos) (subgraph for a Cronos token), [here](https://github.com/julianeon/cronos-graph) (front end to display Cronos data using that subgraph) and [here](https://github.com/julianeon/subgraph-sepolia-mkt) (front end for a newly created token I deployed on Ethereum's Sebolia testnet).
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
