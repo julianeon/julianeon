@@ -19,6 +19,8 @@ Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.co
 
 I'm proficient with the command line and I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. 
 
+My Cronos token subgraph is [here](https://github.com/julianeon/cronos).
+
 ## Interests 
 
 I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com). 
