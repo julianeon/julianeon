@@ -4,7 +4,7 @@
 
 This is a guide to my repositories on GitHub, linked to from my [profile](./README.md). 
 
-Most of my repos are web apps made with JavaScript. This reflects the fact that, as a consultant, I mostly used React with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, API Gateway and Lambda.
+Most of these repos are web apps made with JavaScript. As a consultant, I mostly used React with AWS, especially AWS Amplify and its associated services: s3, Cognito, DynamoDB, AppSync, API Gateway and Lambda.
 
 For other languages, I either have one repo here with various scripts, or a longer demo program.
 
@@ -13,7 +13,9 @@ For other languages, I either have one repo here with various scripts, or a long
 
 ### JavaScript
 
-Most of my JavaScript apps are React apps. If you'd like to read my writing about JavaScript, see [JavaScriptPage](https://javascriptpage.com).
+Most of my JS apps are React apps. To read my writing about JavaScript, see [JavaScriptPage](https://javascriptpage.com).
+
+Many of my repos are one-shot apps used to display a visual or a concept and were created over 1-3 days.
 
 To see a recent example of a React template I customized for a landing page, see [React-Landing-Page-Learn React](https://github.com/julianeon/React-Landing-Page-Learn-React).
 
@@ -21,13 +23,11 @@ This is the live (demo) version of that repo, which I'm hosting on s3 on AWS:
 
 http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/
 
-Many of my repos are one-shot apps used to display a visual or a concept and were created over 1-3 days.
+I have a few single purpose apps at different subdomains on mindwiller.com.
 
 ![view of clicker app](./click_to_disappear.png)
 
 _Example: click on a box to make it disappear at [count.mindwiller.com](https://count.mindwiller.com)._
-
-Repos with 'react' in the name were made with React, using hooks. 
 
 I host the apps that aren't made for local use on AWS. Here's an example made with Svelte: [hometoolzone.com](https://www.hometoolzone.com/)
 
