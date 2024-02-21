@@ -11,7 +11,7 @@ I did technical support at PagerDuty, Ripple, and Apollo GraphQL (see: [LinkedIn
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
-In terms of crypto, using the Graph protocol, you can see my [subgraph](https://github.com/julianeon/cronos) for the Cronos ERC-20 token, this [app](https://github.com/julianeon/cronos-graph) to show that data, and this [app](https://github.com/julianeon/subgraph-sepolia-mkt) displaying data for a newly created token deployed on Ethereum's Sebolia testnet.
+Using the Graph protocol, you can see my [subgraph](https://github.com/julianeon/cronos) for the Cronos ERC-20 token, this [app](https://github.com/julianeon/cronos-graph) to show that data, and this [app](https://github.com/julianeon/subgraph-sepolia-mkt) displaying data for a newly created token deployed on Ethereum's Sebolia testnet.
 
 You can see [examples of my writing](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) about JS on my [JavaScriptPage](https://javascriptpage.com) site. 
 
