@@ -7,7 +7,7 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a software consultant and product support aficionado living in San Francisco, California. I'm big on [product support](product_support.md).
 
-I did technical support at PagerDuty, Ripple, and Apollo GraphQL (see: [LinkedIn](https://www.linkedin.com/in/julianeon/). After that I worked at my consultancy, Excelsitor, on cryptocurrency projects.
+I did technical support at PagerDuty, Ripple, and Apollo GraphQL (see: [LinkedIn](https://www.linkedin.com/in/julianeon/)). After that I worked at my consultancy, Excelsitor, on cryptocurrency projects.
 
 In terms of crypto, using the Graph protocol, you can see my [subgraph](https://github.com/julianeon/cronos) for the Cronos ERC-20 token, this [app](https://github.com/julianeon/cronos-graph) to display Cronos data using that subgraphfor its data, and this [app](https://github.com/julianeon/subgraph-sepolia-mkt) displaying data for a newly created token deployed on Ethereum's Sebolia testnet.
 
