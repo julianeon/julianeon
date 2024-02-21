@@ -31,7 +31,7 @@ _Example: click on a box to make it disappear at [count.mindwiller.com](https://
 
 I host the apps that aren't made for local use on AWS. Here's an example made with Svelte: [hometoolzone.com](https://www.hometoolzone.com/)
 
-I've made apps with authentication that use AWS services like AppSync, but those aren't here since they can't be run locally as easily as an app without AWS credentials. I can share that code upon request.
+I've made apps with authentication that use AWS services like AppSync, but those aren't here since they can't be run locally as easily as an app without AWS credentials. 
 
 ### Demos
 
