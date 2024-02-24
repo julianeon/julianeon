@@ -5,7 +5,9 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a software consultant slash engineer living in San Francisco, California. I'm big on [product support](product_support.md).
+See my [GoodLife app](https://github.com/julianeon/goodlife) (front end).
+
+I'm a software consultant slash engineer living in San Francisco, California. 
 
 I did technical support at PagerDuty, Ripple, and Apollo GraphQL (see: [LinkedIn](https://www.linkedin.com/in/julianeon/)). After that I worked at my consultancy, Excelsitor, on cryptocurrency projects.
 
