@@ -5,7 +5,7 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-See my [GoodLife app](https://github.com/julianeon/goodlife) (front end).
+See my GoodLife app ([React front end](https://github.com/julianeon/goodlife) and [Python back end](https://github.com/julianeon/goodlifeapi)).
 
 I'm a software consultant slash engineer living in San Francisco, California. 
 
