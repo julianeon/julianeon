@@ -14,6 +14,7 @@ For a history of venture capital, consider Nicholas' VC: A History, Stross' The 
 
 For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan & Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age. Petzold's Code covers hardware and software.
 
+If you like Unix, I recommend Kernighan's Unix: A History.
 
 Tim Wu's The Attention Merchants is a terrific history of mass media and its associated technologies.
 
@@ -23,7 +24,8 @@ Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's S
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
-If you like Unix, I recommend Kernighan's Unix: A History.
+Easter's The Comfort Crisis changed how I approached my health; I get a lot more outdoor time now.
+
 
 ### Fiction
 
