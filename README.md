@@ -7,7 +7,7 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a software consultant who also does product support, living in San Francisco, California. 
 
-I did technical support at PagerDuty, Ripple, and Apollo GraphQL (see: [LinkedIn](https://www.linkedin.com/in/julianeon/)). After that I worked at my consultancy, Excelsitor, on cryptocurrency projects.
+I've done technical support at PagerDuty, Ripple, and Apollo GraphQL (my [LinkedIn](https://www.linkedin.com/in/julianeon/)). After that I worked at my consultancy, Excelsitor, on cryptocurrency projects.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
