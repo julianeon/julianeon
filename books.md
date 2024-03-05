@@ -1,6 +1,6 @@
 ## Books
 
-![eye art](big_eye.jpg)
+![sf city](sf_pixels.jpg)
 
 Here is a list of books I've read and enjoyed.
 
