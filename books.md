@@ -8,7 +8,7 @@ I recommend all the books here.
 
 ![history of technology](history_technology.png)
 
-Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google), Levy's Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X), Benioff's Behind The Cloud (Salesforce).
+Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google) and Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X), Benioff's Behind The Cloud (Salesforce).
 
 For a history of venture capital, consider Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
@@ -22,8 +22,7 @@ Tim Wu's The Attention Merchants is a terrific history of mass media and its ass
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
-Easter's The Comfort Crisis changed how I approached my health; I try to get a lot more outdoor time now.
-
+Easter's The Comfort Crisis changed how I approached my health (I get more outdoor time now).
 
 ### Fiction
 
