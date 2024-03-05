@@ -12,19 +12,17 @@ Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (A
 
 For a history of venture capital, consider Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
-For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan & Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age. Petzold's Code covers hardware and software.
-
-If you like Unix, I recommend Kernighan's Unix: A History.
-
-Tim Wu's The Attention Merchants is a terrific history of mass media and its associated technologies.
+For a history of the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan & Hoddeson's Crystal Fire explains the early part of that, the history of the transistor and the start of the information age. Petzold's Code covers hardware and software. For Unix, I recommend Kernighan's Unix: A History.
 
 On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It pairs well with The Penguin History of the World by Roberts & Westad.
 
 Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's Setting The Table has a lot to teach about Support. Maney's The Maverick & His Machine is a good history of early pre-computer IBM.
 
+Tim Wu's The Attention Merchants is a terrific history of mass media and its associated technologies.
+
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
-Easter's The Comfort Crisis changed how I approached my health; I get a lot more outdoor time now.
+Easter's The Comfort Crisis changed how I approached my health; I try to get a lot more outdoor time now.
 
 
 ### Fiction
