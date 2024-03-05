@@ -5,7 +5,7 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a software consultant and product support guy living in San Francisco, California. 
+I'm a software consultant who also does product support, living in San Francisco, California. 
 
 I did technical support at PagerDuty, Ripple, and Apollo GraphQL (see: [LinkedIn](https://www.linkedin.com/in/julianeon/)). After that I worked at my consultancy, Excelsitor, on cryptocurrency projects.
 

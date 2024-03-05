@@ -33,6 +33,8 @@ I host the apps that aren't made for local use on AWS. Here's an example made wi
 
 I've made apps with authentication that use AWS services like AppSync, but those aren't here since they can't be run locally as easily as an app without AWS credentials. 
 
+Using the Graph protocol, you can see my [subgraph](https://github.com/julianeon/cronos) for the Cronos ERC-20 token, this [app](https://github.com/julianeon/cronos-graph) to show that data, and this [app](https://github.com/julianeon/subgraph-sepolia-mkt) displaying data for a newly created token deployed on Ethereum's Sebolia testnet.
+
 ### Demos
 
 You can see demos of 16 of my JavaScript apps on [Glitch](https://glitch.com) at [glitch.com/@julianeon](https://glitch.com/@julianeon). Be aware that they take 1-3 minutes to load. Once they do, you'll see the demo and a link to the code towards the bottom of the page.
