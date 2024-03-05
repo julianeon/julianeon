@@ -11,7 +11,7 @@ I've done technical support at PagerDuty, Ripple, and Apollo GraphQL (my [Linked
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
 
-You can see [examples of my writing](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) about JS on my [JavaScriptPage](https://javascriptpage.com) site. 
+You can see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing about JS on my [JavaScriptPage](https://javascriptpage.com) site. 
 
 Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Bash](https://github.com/julianeon/useful-bash-scripts), [Rust](https://github.com/julianeon/moodtracker/tree/main), Go, Perl, [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e). 
 
