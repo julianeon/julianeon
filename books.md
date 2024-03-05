@@ -1,12 +1,12 @@
 ## Books
 
+![eye art](big_eye.jpg)
+
 Here is a list of books I've read and enjoyed.
 
 I recommend all the books here.
 
 ### Nonfiction
-
-![eye art](big_eye.jpg)
 
 Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (Amazon), Isaacson's Steve Jobs & Merchant's The One Device: The iPhone (Apple), Levy's In The Plex (Google) and Facebook: The Inside Story (Facebook), Frier's No Filter (Instagram), Lagorio-Chafkin's We Are The Nerds (Reddit), Bilton's Hatching Twitter (X), Benioff's Behind The Cloud (Salesforce).
 
