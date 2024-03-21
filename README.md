@@ -23,7 +23,7 @@ I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://
 
 I like coding, running ([former member](https://goldengaterunningclub.org/)) along the beach - actually anything on the beach - and [reading](books.md).
 
-I like [Play On Tabletop](https://www.youtube.com/watch?v=Sk6xN-tmWX8&t=2024s) on YouTube.
+I like [Play On Tabletop](https://www.youtube.com/watch?v=Sk6xN-tmWX8&t=1s) on YouTube.
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
