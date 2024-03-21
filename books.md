@@ -18,11 +18,11 @@ On an even bigger scale, I learned a lot from Global Capitalism by Freidan. It p
 
 Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's Setting The Table has a lot to teach about Support. Maney's The Maverick & His Machine is a good history of early pre-computer IBM.
 
-Tim Wu's The Attention Merchants is a terrific history of mass media and its associated technologies.
+Wu's The Attention Merchants is a terrific history of mass media and its associated technologies. It goes well with Lorenz's Extremely Online, a must-read.
 
 If you like psychology, Barrett's How Emotions Are Made is a future classic.
 
-Easter's The Comfort Crisis changed how I approached my health (I get more outdoor time now).
+Easter's The Comfort Crisis changed my approach to health: I get daily outdoor time now.
 
 ### Fiction
 
