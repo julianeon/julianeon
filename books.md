@@ -34,6 +34,6 @@ Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood 
 
 I like the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
 
-For contemporary fiction, I nominate Smith's White Teeth.
+For contemporary fiction, I endorse Smith's White Teeth.
 
 On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's Inferno, Vol. 1 of The Arabian Nights (1 of 3). 
