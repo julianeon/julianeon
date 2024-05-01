@@ -32,8 +32,8 @@ A close second favorite would be Greg Egan. Try The Best of Greg Egan (short sto
 
 Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series and Garfinkel's All Of An Instant.
 
-I like the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
+For contemporary fiction, I like Zadie Smith (White Teeth), Tai Lin and Hari Kunzru.
 
-For contemporary fiction, I endorse Smith's White Teeth. I also like Tai Lin's fiction and Hari Kunzru.
+I also enjoy the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
 
-On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's Inferno, Vol. 1 of The Arabian Nights (1 of 3). 
+On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's Inferno, Vol. 1 of The Arabian Nights (1 of 3 - I'll finish it eventually). 
