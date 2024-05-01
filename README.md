@@ -23,7 +23,7 @@ I like coding, running ([former member](https://goldengaterunningclub.org/)) alo
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
-On YouTube, I like channels like [Veritaseum](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) and [Play On Tabletop](https://www.youtube.com/watch?v=Sk6xN-tmWX8&t=1s).
+On YouTube, I like [Veritaseum](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) and [Play On Tabletop](https://www.youtube.com/watch?v=Sk6xN-tmWX8&t=1s).
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
