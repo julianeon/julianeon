@@ -5,13 +5,11 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a software consultant (web dev, project management) and technical support engineer. I work remotely and live in San Francisco, California. 
+I'm a technical support engineer and software consultant (web dev, project management). I live in SF, CA and work remotely. 
 
-I've done technical support at Block ([current](https://www.linkedin.com/in/julianeon/)), Apollo GraphQL, Ripple and PagerDuty. For my consultancy, Excelsitor, I focus on cryptocurrency projects.
+I've done technical support at Block ([current](https://www.linkedin.com/in/julianeon/)), Apollo GraphQL, Ripple and PagerDuty. At my consultancy, Excelsitor, I focused on cryptocurrency projects.
 
-You can read my [repo guide](repo_guide.md) to learn more about my GitHub code.
-
-You can see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing about JS on my [JavaScriptPage](https://javascriptpage.com) site. 
+You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
 Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Bash](https://github.com/julianeon/useful-bash-scripts), [Rust](https://github.com/julianeon/moodtracker/tree/main), Go, Perl, [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e). These days I use JavaScript and Ruby the most, for work.
 
@@ -25,7 +23,7 @@ I like coding, running ([former member](https://goldengaterunningclub.org/)) alo
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
-I like watching YouTube, and channels like [Play On Tabletop](https://www.youtube.com/watch?v=Sk6xN-tmWX8&t=1s).
+On YouTube, I like channels like [Veritaseum](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) and [Play On Tabletop](https://www.youtube.com/watch?v=Sk6xN-tmWX8&t=1s).
 
 Also, I'm friendly. Say hi, on Telegram or Discord, at @julianeon.
 
