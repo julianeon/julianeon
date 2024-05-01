@@ -34,6 +34,6 @@ Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood 
 
 For contemporary fiction, I like Zadie Smith (White Teeth), Tai Lin and Hari Kunzru.
 
-I also enjoy the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
+I also adore the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
 
 On the longer side: In Search of Lost Time, War and Peace, Moby Dick, Dante's Inferno, Vol. 1 of The Arabian Nights (1 of 3 - I'll finish it eventually). 
