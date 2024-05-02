@@ -19,7 +19,7 @@ I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/
 
 I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com). 
 
-I like coding, [running](https://goldengaterunningclub.org/) on the beach (actually anything on the beach) and [reading](books.md).
+I like coding, [running](https://goldengaterunningclub.org/) on the beach (anything on the beach) and [reading](books.md).
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
