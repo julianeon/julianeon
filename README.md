@@ -11,9 +11,9 @@ I do technical support at [Block](https://www.linkedin.com/in/julianeon/) and wa
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
-Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Python](https://github.com/julianeon/slackbot), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Bash](https://github.com/julianeon/useful-bash-scripts), [Rust](https://github.com/julianeon/moodtracker/tree/main), Go, Perl, [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e). These days I mostly use Ruby at work.
+Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e), Go, Perl. These days I mostly use Ruby at work.
 
-I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. 
+I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. At work I use OSX, at home Ubuntu.
 
 ## Interests 
 
