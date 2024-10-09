@@ -10,7 +10,7 @@ Startup histories: Soni's The Founders (PayPal), Stone's The Everything Store (A
 
 For a history of venture capital, try Nicholas' VC: A History, Stross' The Launch Pad: Inside Y Combinator, and Chafkin's The Contrarian: Peter Thiel.
 
-For the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan & Hoddeson's Crystal Fire explains the early part of that history, the transistor and the start of the information age. Petzold's Code covers hardware and software. For Unix, I recommend Kernighan's Unix: A History.
+For the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan & Hoddeson's Crystal Fire explains the transistor and the start of the information age. Petzold's Code covers hardware and software. For Unix, I recommend Kernighan's Unix: A History.
 
 On an even bigger scale, I learned a lot from Global Capitalism by Freidan, which pairs well with The Penguin History of the World.
 
