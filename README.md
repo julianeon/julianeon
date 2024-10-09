@@ -22,9 +22,9 @@ I like coding, bodyboarding, [running](https://goldengaterunningclub.org/) and [
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
-Speaking of repos, I keep my personal todo list on GitHub (private), which is why I'm active on here every day. I use it daily, with the exception of vacations.
+Speaking of repos, I keep my personal todo list on GitHub (private), which is why I'm active on here daily, except for vacations.
 
-Say hi, on Telegram or Discord, at @julianeon.
+You can say hi, on Telegram or Discord, at @julianeon.
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
