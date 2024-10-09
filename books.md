@@ -14,9 +14,9 @@ For the PC, Fire In The Valley, by Swaine & Freiberger, is outstanding. Riordan 
 
 On an even bigger scale, I learned a lot from Global Capitalism by Freidan, which pairs well with The Penguin History of the World.
 
-Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's Setting The Table has a lot to teach about support. Maney's The Maverick & His Machine is a good history of pre-computer IBM.
+Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's Setting The Table has a lot to teach about support. Maney's The Maverick & His Machine is a good account of pre-computer IBM.
 
-Wu's The Attention Merchants is a terrific history of mass media and its associated technologies. More recently, so is Lorenz's Extremely Online.
+Wu's The Attention Merchants is a terrific history of mass media and its associated technologies. For the YouTube age, see Lorenz's Extremely Online.
 
 For psychology, Barrett's How Emotions Are Made is a future classic. I liked Easter's The Comfort Crisis too.
 
@@ -28,7 +28,7 @@ A close second favorite would be Greg Egan. Try The Best of Greg Egan or his nov
 
 Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series and Garfinkel's All Of An Instant.
 
-For contemporary fiction, I like Zadie Smith (White Teeth), Tai Lin and Hari Kunzru.
+For contemporary fiction, I like Otessa Mosefeghi, Tai Lin and Hari Kunzru.
 
 I respect the classics: LOTR, Dune, Neuromancer, Snow Crash, A Wrinkle in Time.
 
