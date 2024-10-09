@@ -5,26 +5,24 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a technical support engineer and software consultant (web dev, project management). I live in SF, CA and work remotely. 
+I'm a technical support engineer and software consultant (project management, web dev). I live in SF, CA and work remotely. 
 
 I do technical support at [Block](https://www.linkedin.com/in/julianeon/), as I did at Apollo GraphQL, Ripple and PagerDuty. At my consultancy, Excelsitor, I focused on cryptocurrency projects.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
-Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e), Go, Perl. I mostly use Ruby and SQL at work.
+Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e), Go, Perl. I use Ruby snippets at work.
 
-I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I use OSX on a Macbook at work and Ubuntu on a Thinkpad at home.
+I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I use Macbook at work and Ubuntu on a Thinkpad at home.
 
 
 ## Interests 
-
-I'm on [Hacker News](https://news.ycombinator.com/) and [Indie Hackers](https://indiehackers.com). 
 
 I like coding, surfing, [running](https://goldengaterunningclub.org/) and [reading](books.md).
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
-On YouTube, I like [Veritaseum](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) and [Play On Tabletop](https://www.youtube.com/watch?v=Sk6xN-tmWX8&t=1s).
+Speaking of repos, I keep my personal todo list on GitHub (private), which is why I suddenly became active every day. I use it daily, with the exception of vacations.
 
 Say hi, on Telegram or Discord, at @julianeon.
 
