@@ -22,7 +22,7 @@ I like coding, surfing, [running](https://goldengaterunningclub.org/) and [readi
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
-Speaking of repos, I keep my personal todo list on GitHub (private), which is why I suddenly became active every day. I use it daily, with the exception of vacations.
+Speaking of repos, I keep my personal todo list on GitHub (private), which is why I'm active on here every day. I use it daily, with the exception of vacations.
 
 Say hi, on Telegram or Discord, at @julianeon.
 
