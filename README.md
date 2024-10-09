@@ -18,7 +18,7 @@ I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/
 
 ## Interests 
 
-I like coding, bodyboarding, [running](https://goldengaterunningclub.org/) and [reading](books.md).
+I like coding, bodyboarding, [running](https://goldengaterunningclub.org/) and my [book list](books.md).
 
 I also like to hunt for good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
 
