@@ -18,7 +18,7 @@ Among business biographies, my favorite is Ray Kroc's Grinding It Out. Meyer's S
 
 Wu's The Attention Merchants is a terrific history of mass media and its associated technologies. For the YouTube age, see Lorenz's Extremely Online.
 
-For psychology, Barrett's How Emotions Are Made is a future classic. I liked Easter's The Comfort Crisis too.
+For psychology, Barrett's How Emotions Are Made is a future classic. I like Easter's The Comfort Crisis too.
 
 ### Fiction
 
@@ -26,7 +26,7 @@ I'm a big fan of Philip K. Dick, especially The Man In The High Castle and Ubik.
 
 A close second favorite would be Greg Egan. Try The Best of Greg Egan or his novel Schild's Ladder.
 
-Two books that I love that I rarely see mentioned are Bodard's Obsidian & Blood series and Garfinkel's All Of An Instant.
+Two top books I rarely see mentioned are Bodard's Obsidian & Blood series and Garfinkel's All Of An Instant.
 
 For contemporary fiction, I like Otessa Mosefeghi, Tai Lin and Hari Kunzru.
 
