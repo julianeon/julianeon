@@ -5,7 +5,7 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a technical support engineer and software consultant (project management, web dev). I live in San Francisco, California and work remotely. 
+I'm a technical support engineer and software consultant (project management, web dev). I work remotely from San Francisco, California.
 
 I do technical support at [Block](https://www.linkedin.com/in/julianeon/), where I oversee a busy Slack room. I also did technical support at Apollo GraphQL, Ripple and PagerDuty - [product support](product_support.md). At my consultancy, Excelsitor, I focused on cryptocurrency projects.
 
