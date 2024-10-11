@@ -5,9 +5,9 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a technical support engineer and software consultant (project management, web dev). I live in SF, CA and work remotely. 
+I'm a technical support engineer and software consultant (project management, web dev). I live in San Francisco, California and work remotely. 
 
-I do technical support at [Block](https://www.linkedin.com/in/julianeon/), where I oversee a busy Slack chat room. I also did technical support at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). At my consultancy, Excelsitor, I focused on cryptocurrency projects.
+I do technical support at [Block](https://www.linkedin.com/in/julianeon/), where I oversee a busy Slack room. I also did technical support at Apollo GraphQL, Ripple and PagerDuty - [product support](product_support.md). At my consultancy, Excelsitor, I focused on cryptocurrency projects.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
