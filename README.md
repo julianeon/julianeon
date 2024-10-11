@@ -7,13 +7,13 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a technical support engineer and software consultant (project management, web dev). I work remotely from San Francisco, California.
 
-I do technical support at [Block](https://www.linkedin.com/in/julianeon/), where I oversee a busy Slack room. I also did technical support at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). At my consultancy, Excelsitor, I focused on cryptocurrency projects.
+I do contract technical support at [Block](https://www.linkedin.com/in/julianeon/), where I oversee a busy Slack room. I also did technical support at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). At my consultancy, Excelsitor, I focused on cryptocurrency projects.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
 Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e), Go, Perl. I use Ruby snippets at work.
 
-I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I use a Macbook at work and Ubuntu on a Thinkpad at home.
+I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I use a Macbook at work and a Thinkpad with Ubuntu at home.
 
 
 ## Interests 
