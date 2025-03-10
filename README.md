@@ -11,8 +11,7 @@ You can read my [repo guide](repo_guide.md) to learn more about my GitHub code a
 
 Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e), Go, Perl, C. I used Ruby snippets at Block, most recently.
 
-I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I use a Macbook at work and a Thinkpad with Ubuntu at home.
-
+I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. 
 
 ## Interests 
 
