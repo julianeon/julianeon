@@ -5,7 +5,9 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I've done contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). At my consultancy, Excelsitor, I focused on cryptocurrency prototypes.
+At my consultancy, Excelsitor, I focused on JavaScript websites, cryptocurrency prototypes, and program management. I currently own an online business.
+
+I've done contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). 
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
