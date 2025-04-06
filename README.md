@@ -7,7 +7,7 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I own online businesses. Right now I own & run a monetized YouTube channel and an events website.
 
-At my consultancy, Excelsitor, I focused on JavaScript websites, landing pages, program managerment and software prototypes.
+At my consultancy, Excelsitor, I focused on JavaScript websites, landing pages, program management and software prototypes.
 
 I did contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). 
 
