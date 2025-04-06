@@ -5,15 +5,17 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-At my consultancy, Excelsitor, I focused on JavaScript websites, cryptocurrency prototypes, and program management. I currently own an online business.
+I own online businesses. Right now I own & run a monetized YouTube channel and an events website.
 
-I've done contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). 
+At my consultancy, Excelsitor, I focused on JavaScript websites, landing pages, program managerment and software prototypes.
+
+I did contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). 
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
-Languages I've used: [JavaScript](repo_guide.md), [TypeScript](https://github.com/julianeon/userform), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), [Rust](https://github.com/julianeon/moodtracker/tree/main), [Bash](https://github.com/julianeon/useful-bash-scripts), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e), Go, Perl, C. 
+Languages I've used: [JavaScript](repo_guide.md), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), Go, [Rust](https://github.com/julianeon/moodtracker/tree/main), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e) and C.
 
-I'm proficient with the command line and [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. 
+I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I'm proficient with the command line and bash.
 
 ## Interests 
 
