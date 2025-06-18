@@ -7,9 +7,9 @@ I'm Julian Martinez, @julianeon on most platforms.
 
 I'm a technical support engineer. On the side, I own an online business, a monetized YouTube channel.
 
-At my consultancy, Excelsitor, I focus on social media, landing pages, software prototypes and program management. I frequently use AWS for this.
+I did contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, which was mostly developer focused.
 
-I did contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, mostly [product support](product_support.md). 
+At my consultancy, Excelsitor, I focus on social media, landing pages, software prototypes and program management. I frequently use AWS for this.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
