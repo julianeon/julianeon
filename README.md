@@ -5,7 +5,7 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I own online businesses. Right now I own & run a monetized YouTube channel and an events website.
+I'm a technical support engineer. On the side, I own an online business, a monetized YouTube channel.
 
 At my consultancy, Excelsitor, I focus on social media, landing pages, software prototypes and program management. I frequently use AWS for this.
 
