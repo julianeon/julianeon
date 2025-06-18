@@ -5,7 +5,7 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a technical support engineer. On the side, I own an online business, a monetized YouTube channel.
+I'm a technical support engineer. On the side, I run a monetized YouTube channel.
 
 I did contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, which was mostly developer focused.
 
