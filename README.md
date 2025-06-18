@@ -5,17 +5,19 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a technical support engineer. On the side, I run a monetized YouTube channel.
+I'm a technical support engineer. 
 
 I did contractual technical support at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, which was mostly developer focused.
 
-At my consultancy, Excelsitor, I focus on social media, landing pages, software prototypes and program management. I frequently use AWS for this.
+I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I'm proficient with the command line and bash.
+
+At my consultancy, Excelsitor, I focused on social media, landing pages, software prototypes and program management. I frequently used AWS for this.
+I also run a monetized YouTube channel.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
 Languages I've used: [JavaScript](repo_guide.md), [Ruby](https://github.com/julianeon/useful-ruby-scripts), [Python](https://github.com/julianeon/slackbot), Go, [Rust](https://github.com/julianeon/moodtracker/tree/main), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e) and C.
 
-I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I'm proficient with the command line and bash.
 
 ## Interests 
 
