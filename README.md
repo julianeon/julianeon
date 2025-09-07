@@ -5,15 +5,13 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm a technical support engineer. 
+I'm a technical support engineer and consultant. 
 
-I did contract technical support on the Square team at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, which was mostly developer focused.
+Mostly recently, I did contract technical support for Square at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, which was mostly developer focused.
 
 I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I'm proficient with the command line and bash.
 
-At my consultancy, Excelsitor, I focused on creating apps, landing pages, software prototypes and program management for one client. I frequently used AWS for this.
-
-In my spare time I run a monetized AI-based YouTube channel.
+At my consultancy, Excelsitor, I focused on creating apps, landing pages, software prototypes and program management for one client. I frequently used AWS for this. I own several small online businesses and still use AWS.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
