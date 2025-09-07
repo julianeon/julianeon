@@ -22,9 +22,7 @@ Languages I've used: [JavaScript](repo_guide.md), [Ruby](https://github.com/juli
 
 I like coding, [running](https://goldengaterunningclub.org/), [books](books.md) and bodyboarding.
 
-I also like to find good repos here, like this one on [complex systems](https://github.com/ByteByteGoHq/system-design-101).
-
-Speaking of repos, I keep my personal todo list on GitHub (private), which is why GitHub shows me as active almost every day.
+I keep my personal todo list on GitHub (private), which is why GitHub shows me as active almost every day.
 
 You can say hi, on Telegram or Discord, at @julianeon.
 
