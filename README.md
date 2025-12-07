@@ -13,7 +13,7 @@ Before this, I did contract technical support for Square at [Block](https://www.
 
 I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I'm proficient with the command line and bash.
 
-At my consultancy, Excelsitor, I focused on creating apps, landing pages, software prototypes and program management for one client, focused on cryptocurrencies.
+At my consultancy, Excelsitor, I focused on creating apps, landing pages, software prototypes and program management for a Korean client, focused on cryptocurrencies.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
