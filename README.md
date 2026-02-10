@@ -5,15 +5,13 @@
 
 I'm Julian Martinez, @julianeon on most platforms.
 
-I'm an engineer and consultant. 
+I've done contract technical support for Square at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, which was developer focused.
 
-I own several small online businesses and frequently use AWS, especially Amplify.
-
-Before this, I did contract technical support for Square at [Block](https://www.linkedin.com/in/julianeon/). I also did technical support as an employee at Apollo GraphQL, Ripple and PagerDuty, which was developer focused.
+I own several small online businesses hosted on AWS. To support them I often write code in JavaScript and use the Google Gemini API.
 
 I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I'm proficient with the command line and bash.
 
-At my consultancy, Excelsitor, I focused on creating apps, landing pages, software prototypes and program management for a Korean client, focused on cryptocurrencies.
+At my consultancy, Excelsitor, I focused on creating apps, landing pages, software prototypes and program management for Currentcoin, a cryptocurrency funded by a Korean investment group.
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
