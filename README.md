@@ -3,7 +3,7 @@
 
 ![worplaces: pagerduty, ripple, apollographql](workplaces.png)
 
-I'm Julian Martinez, @julianeon on most platforms. I'm an independent consultant who's new helping organizations with hiring.
+I'm Julian Martinez, @julianeon on most platforms. I'm an independent consultant who's new helping tech companies with hiring.
 
 I've done technical support for Square at [Block](https://www.linkedin.com/in/julianeon/) and at Apollo GraphQL, Ripple and PagerDuty, mostly developer focused.
 
@@ -13,7 +13,7 @@ I own several small online businesses hosted on AWS. To support them I often wri
 
 You can read my [repo guide](repo_guide.md) to learn more about my GitHub code and see [examples](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison) of my writing on my [JavaScriptPage](https://javascriptpage.com) site. 
 
-Languages I've used: [JavaScript](repo_guide.md), [Python](https://github.com/julianeon/slackbot), G o, [Rust](https://github.com/julianeon/moodtracker/tree/main), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e) and C.
+Languages I've used: [JavaScript](repo_guide.md), [Python](https://github.com/julianeon/slackbot), Go, [Rust](https://github.com/julianeon/moodtracker/tree/main), [Lisp](https://gist.github.com/julianeon/11f71c1a860c292b1699a9f75a6c3e0e) and C.
 
 I'm [Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) certified. I'm proficient with the command line and bash.
 
