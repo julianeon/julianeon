@@ -3,7 +3,7 @@
 
 ![worplaces: pagerduty, ripple, apollographql](workplaces.png)
 
-I'm Julian Martinez, @julianeon on most platforms. I'm an independent consultant who's new helping tech companies with hiring.
+I'm Julian Martinez, @julianeon on most platforms. I'm an independent consultant helping tech companies with hiring.
 
 I've done technical support for Square at [Block](https://www.linkedin.com/in/julianeon/) and at Apollo GraphQL, Ripple and PagerDuty, mostly developer focused.
 
